@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Huy Phuong&#x27;s Blog</title>
-    <link href="https://github.com/HuyPhuongVN/PhuongBlog.git/feed.xml" rel="self" />
-    <link href="https://github.com/HuyPhuongVN/PhuongBlog.git" />
-    <updated>2024-12-29T17:24:58+07:00</updated>
+    <title>PhuongBlog</title>
+    <link href="https://HuyPhuongVN.github.io/rainblog.git/feed.xml" rel="self" />
+    <link href="https://HuyPhuongVN.github.io/rainblog.git" />
+    <updated>2025-01-07T14:45:42+07:00</updated>
     <author>
-        <name>Trần Huy Phương</name>
+        <name>HuyPhuong</name>
     </author>
-    <id>https://github.com/HuyPhuongVN/PhuongBlog.git</id>
+    <id>https://HuyPhuongVN.github.io/rainblog.git</id>
 
     <entry>
         <title>Mục lục</title>
         <author>
-            <name>Trần Huy Phương</name>
+            <name>HuyPhuong</name>
         </author>
-        <link href="https://github.com/HuyPhuongVN/PhuongBlog.git/posts/muc-luc/"/>
-        <id>https://github.com/HuyPhuongVN/PhuongBlog.git/posts/muc-luc/</id>
+        <link href="https://HuyPhuongVN.github.io/rainblog.git/muc-luc.html"/>
+        <id>https://HuyPhuongVN.github.io/rainblog.git/muc-luc.html</id>
 
-        <updated>2024-12-29T13:16:47+07:00</updated>
+        <updated>2025-01-07T14:44:08+07:00</updated>
             <summary>
                 <![CDATA[
                     Mục lục về các bài học: Bài 1: CÁC KHÁI NIỆM CƠ BẢN VỀ MẠNG MÁY TÍNH Bài 2: CÁC DÒNG VÀO-RA (STREAM) Bài 3: LẬP TRÌNH ĐA LUỒNG TRONG JAVA Bài 4: LỚP INETADDRESS Bài 5: LẬP TRÌNH VỚI GIAO THỨC TCP Bài 6:&hellip;
@@ -26,58 +26,27 @@
         <content type="html">
             <![CDATA[
                 <h1>Mục lục về các bài học:</h1>
-<h2><a href="https://github.com/HuyPhuongVN/PhuongBlog.git/posts/chuong-1-tong-quan-ve-lap-trinh-mang/">Bài 1: CÁC KHÁI NIỆM CƠ BẢN VỀ MẠNG MÁY TÍNH</a></h2>
-<h2><a href="https://github.com/HuyPhuongVN/PhuongBlog.git/posts/chuong-2-quan-ly-cac-luong-io/">Bài 2: CÁC DÒNG VÀO-RA (STREAM)</a></h2>
-<h2><a href="https://github.com/HuyPhuongVN/PhuongBlog.git/posts/chuong-3-lap-trinh-da-tuyen/">Bài 3: LẬP TRÌNH ĐA LUỒNG TRONG JAVA</a></h2>
-<h2><a href="https://github.com/HuyPhuongVN/PhuongBlog.git/posts/chuong-4-quan-ly-dia-chi-ket-noi-mang/">Bài 4: LỚP INETADDRESS</a></h2>
-<h2><a href="https://github.com/HuyPhuongVN/PhuongBlog.git/posts/chuong-5-lap-trinh-socket-cho-giao-thuc-tcp/">Bài 5: LẬP TRÌNH VỚI GIAO THỨC TCP</a></h2>
-<h2><a href="https://github.com/HuyPhuongVN/PhuongBlog.git/posts/chuong-6-ky-thuat-da-tien-trinh-va-tuan-tu-hoa-ung-dung-mang/">Bài 6: Lập trình giao thức UDP</a></h2>
-<h2><a href="https://github.com/HuyPhuongVN/PhuongBlog.git/posts/chuong-7-lap-trinh-socket-cho-giao-thuc-udp/">Bài 7: Kỹ thuật lập trình phân tán RMI</a></h2>
-<h2><a href="https://github.com/HuyPhuongVN/PhuongBlog.git/posts/chuong-8-lap-trinh-multicast/">Bài 8: Lập trình mạng an toàn bảo mật với SSL</a></h2>
-<h2><a href="https://github.com/HuyPhuongVN/PhuongBlog.git/posts/chuong-9-phan-tan-doi-tuong-trong-java-bang-rmi/">Bài 9: Lập trình ứng dụng truyền thông qua mạng điện thoại công cộng (PTSN)</a></h2>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>About me</title>
-        <author>
-            <name>Trần Huy Phương</name>
-        </author>
-        <link href="https://github.com/HuyPhuongVN/PhuongBlog.git/posts/about-me-2/"/>
-        <id>https://github.com/HuyPhuongVN/PhuongBlog.git/posts/about-me-2/</id>
-
-        <updated>2024-12-29T12:10:50+07:00</updated>
-            <summary>
-                <![CDATA[
-                    Tôi là Trần Huy Phương, sinh viên năm 4 tại Đại học HUTECH, đam mê lập trình game và luôn mong muốn nâng cao kỹ năng trong lĩnh vực này. Tôi tạo blog này để chia sẻ kiến thức, dự án và hành trình phát&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Tôi là Trần Huy Phương, sinh viên năm 4 tại Đại học HUTECH, đam mê lập trình game và luôn mong muốn nâng cao kỹ năng trong lĩnh vực này. Tôi tạo blog này để chia sẻ kiến thức, dự án và hành trình phát triển nghề nghiệp trong lập trình game, đồng thời kết nối với cộng đồng và tìm kiếm cơ hội nghề nghiệp.</p>
-<p> </p>
-<p>Những thành tựu mình đạt được trong 4 năm đại học:</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://github.com/HuyPhuongVN/PhuongBlog.git/media/posts/11/gallery/Screenshot-2024-12-29-123915.png" data-size="1054x816"><img loading="lazy" src="https://github.com/HuyPhuongVN/PhuongBlog.git/media/posts/11/gallery/Screenshot-2024-12-29-123915-thumbnail.png" alt="" width="720" height="557"></a></figure>
-<figure class="gallery__item"><a href="https://github.com/HuyPhuongVN/PhuongBlog.git/media/posts/11/gallery/chungnhan_47012.png" data-size="3371x2420"><img loading="lazy" src="https://github.com/HuyPhuongVN/PhuongBlog.git/media/posts/11/gallery/chungnhan_47012-thumbnail.png" alt="" width="720" height="517"></a></figure>
-<figure class="gallery__item"><a href="https://github.com/HuyPhuongVN/PhuongBlog.git/media/posts/11/gallery/chungnhan_49063.png" data-size="3371x2420"><img loading="lazy" src="https://github.com/HuyPhuongVN/PhuongBlog.git/media/posts/11/gallery/chungnhan_49063-thumbnail.png" alt="" width="720" height="517"></a></figure>
-<figure class="gallery__item"><a href="https://github.com/HuyPhuongVN/PhuongBlog.git/media/posts/11/gallery/chungnhan_75110.png" data-size="3371x2420"><img loading="lazy" src="https://github.com/HuyPhuongVN/PhuongBlog.git/media/posts/11/gallery/chungnhan_75110-thumbnail.png" alt="" width="720" height="517"></a></figure>
-<figure class="gallery__item"><a href="https://github.com/HuyPhuongVN/PhuongBlog.git/media/posts/11/gallery/Tran-Huy-Phuong.jpg" data-size="3503x2479"><img loading="lazy" src="https://github.com/HuyPhuongVN/PhuongBlog.git/media/posts/11/gallery/Tran-Huy-Phuong-thumbnail.jpg" alt="" width="720" height="509"></a></figure>
-<figure class="gallery__item"><a href="https://github.com/HuyPhuongVN/PhuongBlog.git/media/posts/11/gallery/chungnhan_91130.png" data-size="3371x2420"><img loading="lazy" src="https://github.com/HuyPhuongVN/PhuongBlog.git/media/posts/11/gallery/chungnhan_91130-thumbnail.png" alt="" width="720" height="517"></a></figure>
-</div></div>
-<p> </p>
+<h2><a href="https://HuyPhuongVN.github.io/rainblog.git/chuong-1-tong-quan-ve-lap-trinh-mang.html">Bài 1: CÁC KHÁI NIỆM CƠ BẢN VỀ MẠNG MÁY TÍNH</a></h2>
+<h2><a href="https://HuyPhuongVN.github.io/rainblog.git/chuong-2-quan-ly-cac-luong-io.html">Bài 2: CÁC DÒNG VÀO-RA (STREAM)</a></h2>
+<h2><a href="https://HuyPhuongVN.github.io/rainblog.git/chuong-3-lap-trinh-da-tuyen.html">Bài 3: LẬP TRÌNH ĐA LUỒNG TRONG JAVA</a></h2>
+<h2><a href="https://HuyPhuongVN.github.io/rainblog.git/chuong-4-quan-ly-dia-chi-ket-noi-mang.html">Bài 4: LỚP INETADDRESS</a></h2>
+<h2><a href="https://HuyPhuongVN.github.io/rainblog.git/chuong-5-lap-trinh-socket-cho-giao-thuc-tcp.html">Bài 5: LẬP TRÌNH VỚI GIAO THỨC TCP</a></h2>
+<h2><a href="https://HuyPhuongVN.github.io/rainblog.git/chuong-6-chuong-6-ky-thuat-da-tien-trinh-va-tuan-tu-hoa-ung-dung-mang.html">Bài 6: Lập trình giao thức UDP</a></h2>
+<h2><a href="https://HuyPhuongVN.github.io/rainblog.git/chuong-7-lap-trinh-socket-cho-giao-thuc-udp.html">Bài 7: Kỹ thuật lập trình phân tán RMI</a></h2>
+<h2><a href="https://HuyPhuongVN.github.io/rainblog.git/chuong-8-lap-trinh-multicast.html">Bài 8: Lập trình mạng an toàn bảo mật với SSL</a></h2>
+<h2><a href="https://HuyPhuongVN.github.io/rainblog.git/chuong-9-phan-tan-doi-tuong-trong-java-bang-rmi.html">Bài 9: Lập trình ứng dụng truyền thông qua mạng điện thoại công cộng (PTSN)</a></h2>
             ]]>
         </content>
     </entry>
     <entry>
         <title>Chương 9: Phân tán đói tượng trong Java bằng RMI</title>
         <author>
-            <name>Trần Huy Phương</name>
+            <name>HuyPhuong</name>
         </author>
-        <link href="https://github.com/HuyPhuongVN/PhuongBlog.git/posts/chuong-9-phan-tan-doi-tuong-trong-java-bang-rmi/"/>
-        <id>https://github.com/HuyPhuongVN/PhuongBlog.git/posts/chuong-9-phan-tan-doi-tuong-trong-java-bang-rmi/</id>
+        <link href="https://HuyPhuongVN.github.io/rainblog.git/chuong-9-phan-tan-doi-tuong-trong-java-bang-rmi.html"/>
+        <id>https://HuyPhuongVN.github.io/rainblog.git/chuong-9-phan-tan-doi-tuong-trong-java-bang-rmi.html</id>
 
-        <updated>2024-12-27T19:37:30+07:00</updated>
+        <updated>2025-01-07T14:44:01+07:00</updated>
             <summary>
                 <![CDATA[
                     Khái niệm RMI RMI - Remote Method Invocation là một kĩ thuật cài đặt các đối tượng phân tán trong Java. RMI là một phần của bộ J2SDK và là hàm thư viện hỗ trợ các lời gọi phương thức từ xa và trả về&hellip;
@@ -110,7 +79,7 @@
 <ul>
 <li>Client class: Truy vấn trên tên Remote object trên RMI registry, thông qua stub để gọi các phương thức trên server.</li>
 </ul>
-<figure class="article-img"><img loading="lazy"  src="https://docs.oracle.com/javase/tutorial/figures/rmi/rmi-2.gif" alt="alt" data-is-external-image="true"></figure>
+<figure class="article-img"><figure class="is-loaded"><img  src="https://docs.oracle.com/javase/tutorial/figures/rmi/rmi-2.gif" alt="alt" loading="lazy" data-is-external-image="true" data-is-external-image="true"></figure></figure>
 <p>RMI Architecture (Ảnh: <a href="http://docs.oracle.com/" target="_blank" rel="noopener">docs.oracle.com</a>)</p>
 <h3 id="_tao-mot-chuong-trinh-don-gian-su-dung-rmi-3">Tạo một chương trình đơn gỉan sử dụng RMI</h3>
 <p><em>Ở đâu tôi sẽ tạo một project đơn giản để các bạn hiểu thêm về cách thức khai báo cũng như remote của RMI.</em></p>
@@ -121,8 +90,8 @@
 </ul>
 <h4>Tạo mới một server để có thể remote từ xa</h4>
 <p>Đầu tiên chúng ta sẽ tạo một Interface để khai báo những method chúng ta sẽ sử dụng khi remote. Interface là <code>RMICalcul</code> và nó extends <code>Remote</code></p>
-<figure class="article-img"><img loading="lazy"  src="https://images.viblo.asia/9361ec5e-e3ad-40ce-ac37-0d8a1ff01727.png" alt="Selection_041.png" data-is-external-image="true"></figure>
-<div style="box-sizing: border-box; color: #1b1b1b; font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; position: relative;">
+<figure class="article-img"><figure class="is-loaded"><img  src="https://images.viblo.asia/9361ec5e-e3ad-40ce-ac37-0d8a1ff01727.png" alt="Selection_041.png" loading="lazy" data-is-external-image="true" data-is-external-image="true"></figure></figure>
+<div>
 <pre class="language-java" data-filename=""><code>/**
  * Created by tranducliem on 3/26/16.
  */
@@ -151,7 +120,7 @@ public interface RMICalcul extends Remote {
 <blockquote>
 <p>Lưu ý: RMICalcul là interface do chúng ta tạo ra còn Serializable là interface có sẵn trong java, bất cứ object nào muốn send qua môi trường mạng (internet) đều phải implements Serializable. Hiểu đơn giản thì interface Serializable sẽ có nhiệm vụ đóng băng trạng thái của object trước khi được gửi qua môi trường mạng.</p>
 </blockquote>
-<div class="v-markdown-content-box" style="box-sizing: border-box; max-height: 300px; padding-bottom: 1rem; cursor: pointer; mask-image: linear-gradient(#000000 60%, transparent); color: #1b1b1b; font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; position: relative;">
+<div class="v-markdown-content-box">
 <pre class="language-java" data-filename=""><code>import java.io.Serializable;
 import java.rmi.RemoteException;
 
@@ -204,7 +173,7 @@ public class RMICalculimpl implements RMICalcul, Serializable {
 <p>Lưu ý: import thư viện trước khi sử dụng <code>java.io.Serializable</code> và <code>java.rmi.RemoteException</code></p>
 </blockquote>
 <p><strong>Tiếp theo chúng ta sẽ tạo một server có nhiệm vụ lắng nghe khi client call method</strong></p>
-<div class="v-markdown-content-box" style="box-sizing: border-box; max-height: 300px; padding-bottom: 1rem; cursor: pointer; mask-image: linear-gradient(#000000 60%, transparent); color: #1b1b1b; font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; position: relative;">
+<div class="v-markdown-content-box">
 <pre class="language-java" data-filename=""><code>/**
  * Created by tranducliem on 3/26/16.
  */
@@ -250,7 +219,7 @@ public class CalculServer {
 <div class="v-content-flex-center"> </div>
 </div>
 <p><code>Đến đây chúng ta đã tạm thời hoàn thành phần tạo server để lắng nghe khi client gọi đến. Tuy nhiên để client có thể gọi được thì đăng ký trong registry như sau:</code></p>
-<div style="box-sizing: border-box; color: #1b1b1b; font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; position: relative;">
+<div>
 <pre class="language-terminal" data-filename=""><code>rmiregistry &amp;
 </code></pre>
 <button class="v-markdown-it-code-copy" title="Sao chép" data-clipboard-text="rmiregistry &amp;
@@ -262,14 +231,14 @@ public class CalculServer {
 <p>Thêm một vấn đề cần lưu ý tại đây: <code>rmiregistry &amp;</code> với lệnh này thì port sẽ được hệ thống tự động gen ra nếu muốn chủ động fix cổng thì chúng ta chỉ việc sử dụng <code>rmiregistry &lt;port&gt; &amp;</code> ví dụ: <code>rmiregistry 2016 &amp;</code>. Và nếu bạn sử dụng môi trường window thì dùng lệnh <code>start rmiregistry</code> thay cho lệnh <code>rmiregistry &amp;</code></p>
 </blockquote>
 <p>Sau khi đã đăng ký thì chúng ta sẽ genarate những file cần thiết cho việc remote đến server, sử dụng lệnh sau:</p>
-<div style="box-sizing: border-box; color: #1b1b1b; font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; position: relative;">
+<div>
 <pre class="language-terminal" data-filename=""><code>rmic -vcompat RMICalculimpl
 </code></pre>
 <button class="v-markdown-it-code-copy" title="Sao chép" data-clipboard-text="rmic -vcompat RMICalculimpl
 "></button></div>
 <p>hệ thống sẽ tự động sinh ra 2 file <code>RMICalculimpl_Skel.class</code> và <code>RMICalculimpl_Stub.class</code> ở project nào cần remote thì chúng ta sẽ import 2 file này vào. <strong>Ở đây tôi sẽ tạo class test trên cùng 1 project nên không cần copy</strong></p>
 <p><code>Sau khi đã tạo ra những file cần thiết cho việc chạy thì chúng ta sẽ start server bằng lệnh:</code></p>
-<div style="box-sizing: border-box; color: #1b1b1b; font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; position: relative;">
+<div>
 <pre class="language-terminal" data-filename=""><code>java CalculServer
 </code></pre>
 <button class="v-markdown-it-code-copy" title="Sao chép" data-clipboard-text="java CalculServer
@@ -277,7 +246,7 @@ public class CalculServer {
 <p><strong>Như vậy là server đã running và chờ đợi remote từ ứng dụng khác.</strong></p>
 <h4>Tạo mới một class Client để test server vừa tạo</h4>
 <p>Để test server remote vừa tạo tôi sẽ tạo một class <code>CalculClient</code> trong file <code>CalculClient.java</code> cùng thư mục hiện hành:</p>
-<div class="v-markdown-content-box" style="box-sizing: border-box; max-height: 300px; padding-bottom: 1rem; cursor: pointer; mask-image: linear-gradient(#000000 60%, transparent); color: #1b1b1b; font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; position: relative;">
+<div class="v-markdown-content-box">
 <pre class="language-java" data-filename=""><code>/**
  * Created by tranducliem on 3/26/16.
  */
@@ -333,36 +302,35 @@ public class CalculClient {
 <div class="v-content-flex-center"> </div>
 </div>
 <p>Sau khi tạo xong tôi compile file <code>CalculClient.java</code> bằng lệnh:</p>
-<div style="box-sizing: border-box; color: #1b1b1b; font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; position: relative;">
+<div>
 <pre class="language-terminal" data-filename=""><code>javac CalculClient.java
 </code></pre>
 <button class="v-markdown-it-code-copy" title="Sao chép" data-clipboard-text="javac CalculClient.java
 "></button></div>
 <p>Sau khi compile xong thì hệ thống sẽ biên dịch code ra file <code>CalculClient.class</code> file này sẽ dùng để chạy</p>
 <p>tất cả những file sau khi compile sẽ như sau:</p>
-<figure class="article-img"><img loading="lazy"  src="https://images.viblo.asia/32140ae7-5bbc-4261-818a-fbe7bac17cf9.png" alt="Selection_042.png" data-is-external-image="true"></figure>
+<figure class="article-img"><figure class="is-loaded"><img  src="https://images.viblo.asia/32140ae7-5bbc-4261-818a-fbe7bac17cf9.png" alt="Selection_042.png" loading="lazy" data-is-external-image="true" data-is-external-image="true"></figure></figure>
 <p>để test chương trình chúng ta chạy lệnh sau trên terminal:</p>
-<div style="box-sizing: border-box; color: #1b1b1b; font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; position: relative;">
+<div>
 <pre class="language-terminal" data-filename=""><code>java CalculClient
 </code></pre>
 <button class="v-markdown-it-code-copy" title="Sao chép" data-clipboard-text="java CalculClient
 "></button></div>
 <p>Và chúng ta có kết qủa như sau:</p>
-<figure class="article-img"><img loading="lazy"  src="https://images.viblo.asia/fbe03dd4-49e4-468a-8ce7-6b780c536719.png" alt="Selection_044.png" data-is-external-image="true"></figure>
+<figure class="article-img"><figure class="is-loaded"><img  src="https://images.viblo.asia/fbe03dd4-49e4-468a-8ce7-6b780c536719.png" alt="Selection_044.png" loading="lazy" data-is-external-image="true" data-is-external-image="true"></figure></figure>
 <p>Như vậy chúng ta vừa tạo xong một ứng dụng đơn gỉản để remote mothod sử dụng RMI của Java. <em>Bài viết có tham khảo tài liệu của oracle:</em> <a href="https://docs.oracle.com/javase/tutorial/rmi/overview.html" target="_blank" rel="noopener">tại đây</a></p>
-<p> </p>
             ]]>
         </content>
     </entry>
     <entry>
         <title>Chương 8: Lập trình multicast</title>
         <author>
-            <name>Trần Huy Phương</name>
+            <name>HuyPhuong</name>
         </author>
-        <link href="https://github.com/HuyPhuongVN/PhuongBlog.git/posts/chuong-8-lap-trinh-multicast/"/>
-        <id>https://github.com/HuyPhuongVN/PhuongBlog.git/posts/chuong-8-lap-trinh-multicast/</id>
+        <link href="https://HuyPhuongVN.github.io/rainblog.git/chuong-8-lap-trinh-multicast.html"/>
+        <id>https://HuyPhuongVN.github.io/rainblog.git/chuong-8-lap-trinh-multicast.html</id>
 
-        <updated>2024-12-27T19:36:22+07:00</updated>
+        <updated>2025-01-07T14:43:27+07:00</updated>
             <summary>
                 <![CDATA[
                     Multicast là gì? Multicast được nhận biết là một hình thức truyền thông quan trọng, nó mang lại nhiều ưu điểm cho con người trong quá trình sử dụng. Đây là một thuật ngữ tương đối phức tạp thuộc lĩnh vực công nghệ thông tin. Bài&hellip;
@@ -383,7 +351,8 @@ public class CalculClient {
 <p>Multicast trên<a href="https://vinahost.vn/internet-la-gi/"> internet</a> thường được biết đến với tên gọi là IP Multicasting. Điều này tuân thủ theo <a href="https://vinahost.vn/ip-la-gi/">giao thức internet (IP)</a> với mục đích chính là truyền tải dữ liệu.</p>
 <p>Hệ thống IP Multicasting được xây dựng trên cơ sở của “Multicast Trees,” hay cây phát đa hướng, nhằm mục đích truyền tải thông tin giữa các thành viên trong mạng. Trong hệ thống này, một đường truyền duy nhất được phân nhánh đến vị trí của các người nhận trong nhóm.</p>
 <p>Trong quá trình hoạt động, IP Multicast sử dụng hai giao thức chính là IGMP, tức là giao thức quản lý nhóm internet, và PIM – một giao thức phát đa hướng hoạt động độc lập. Trong hệ thống này, IGMP cấp quyền truy cập thông tin và dữ liệu cho người nhận một cách thoải mái. Bộ định tuyến mạng sẽ sử dụng PIM để tạo ra các Multicast Trees.</p>
-<figure id="attachment_55516" class="wp-caption aligncenter" aria-describedby="caption-attachment-55516"><figure class="wp-image-55516 size-full entered litespeed-loaded"><img loading="lazy"  src="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi.jpg" sizes="(max-width: 2000px) 100vw, 2000px" srcset="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi.jpg 2000w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-600x400.jpg 600w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-1199x800.jpg 1199w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-768x512.jpg 768w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-1536x1025.jpg 1536w" alt="multicast la gi" width="2000" height="1334" data-lazyloaded="1" data-src="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi.jpg" data-srcset="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi.jpg 2000w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-600x400.jpg 600w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-1199x800.jpg 1199w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-768x512.jpg 768w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-1536x1025.jpg 1536w" data-sizes="(max-width: 2000px) 100vw, 2000px" data-ll-status="loaded" data-is-external-image="true"></figure>
+<figure id="attachment_55516" class="wp-caption aligncenter" aria-describedby="caption-attachment-55516">
+<figure class="wp-image-55516 size-full entered litespeed-loaded"><figure class="is-loaded"><img  src="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi.jpg" sizes="(max-width: 2000px) 100vw, 2000px" srcset="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi.jpg 2000w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-600x400.jpg 600w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-1199x800.jpg 1199w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-768x512.jpg 768w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-1536x1025.jpg 1536w" alt="multicast la gi" width="2000" height="1334" loading="lazy" data-lazyloaded="1" data-src="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi.jpg" data-srcset="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi.jpg 2000w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-600x400.jpg 600w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-1199x800.jpg 1199w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-768x512.jpg 768w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-1536x1025.jpg 1536w" data-sizes="(max-width: 2000px) 100vw, 2000px" data-ll-status="loaded" data-is-external-image="true" data-is-external-image="true"></figure></figure>
 <figcaption id="caption-attachment-55516" class="wp-caption-text">Multicast là cách mà người gửi thông tin có thể truyền dữ liệu đến một nhóm người nhận trong cùng một lúc</figcaption>
 </figure>
 <blockquote>
@@ -441,7 +410,8 @@ public class CalculClient {
 </ul>
 <h3 id="ftoc-heading-11" class="ftwp-heading"><strong>6.1. IMGP </strong></h3>
 <p>Mặc dù các địa chỉ IP multicast hiển thị trong tiêu đề gói có vẻ giống các địa chỉ IPv4 hoặc IPv6 thông thường, thực tế chúng là các địa chỉ nhóm được sử dụng để tham chiếu đến tất cả các thành viên của nhóm tương ứng. Để tham gia nhóm, một thiết bị có thể gửi thông báo IGMP đến địa chỉ IP của nhóm. </p>
-<figure id="attachment_55521" class="wp-caption aligncenter" aria-describedby="caption-attachment-55521"><figure class="wp-image-55521 size-full entered litespeed-loaded"><img loading="lazy"  src="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-1.jpg" sizes="(max-width: 1107px) 100vw, 1107px" srcset="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-1.jpg 1107w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-1-800x294.jpg 800w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-1-768x282.jpg 768w" alt="multicast la gi" width="1107" height="407" data-lazyloaded="1" data-src="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-1.jpg" data-srcset="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-1.jpg 1107w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-1-800x294.jpg 800w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-1-768x282.jpg 768w" data-sizes="(max-width: 1107px) 100vw, 1107px" data-ll-status="loaded" data-is-external-image="true"></figure>
+<figure id="attachment_55521" class="wp-caption aligncenter" aria-describedby="caption-attachment-55521">
+<figure class="wp-image-55521 size-full entered litespeed-loaded"><figure class="is-loaded"><img  src="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-1.jpg" sizes="(max-width: 1107px) 100vw, 1107px" srcset="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-1.jpg 1107w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-1-800x294.jpg 800w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-1-768x282.jpg 768w" alt="multicast la gi" width="1107" height="407" loading="lazy" data-lazyloaded="1" data-src="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-1.jpg" data-srcset="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-1.jpg 1107w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-1-800x294.jpg 800w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-1-768x282.jpg 768w" data-sizes="(max-width: 1107px) 100vw, 1107px" data-ll-status="loaded" data-is-external-image="true" data-is-external-image="true"></figure></figure>
 <figcaption id="caption-attachment-55521" class="wp-caption-text">Để tham gia nhóm, một thiết bị có thể gửi thông báo IGMP đến địa chỉ IP của nhóm.</figcaption>
 </figure>
 <p>Bộ định tuyến Multicast trên mạng sẽ nhận được gói tin này và thực hiện các bước cần thiết để kích hoạt chuyển tiếp luồng dữ liệu đến thiết bị tham gia. Luôn luôn gửi các gói báo cáo thành viên IGMP với giá trị TTL là 1 nhằm đảm bảo rằng chúng không thể rời khỏi phân đoạn mạng hiện tại.</p>
@@ -453,7 +423,8 @@ public class CalculClient {
 <li aria-level="1"><strong>Tối ưu hóa băng thông: </strong>Thông qua việc lọc lưu lượng, IGMP snooping giúp tối ưu hóa băng thông mạng bằng cách giảm lưu lượng chuyển tiếp đi không đến các thiết bị không quan tâm đến nội dung Multicast.</li>
 <li aria-level="1"><strong>Tránh đụng độ địa chỉ:</strong> Snooping giúp tránh việc chuyển tiếp đồng thời lưu lượng đến tất cả các cổng, giảm nguy cơ xảy ra đụng độ địa chỉ và tiêu tốn băng thông không cần thiết.</li>
 </ul>
-<figure id="attachment_55526" class="wp-caption aligncenter" aria-describedby="caption-attachment-55526"><figure class="wp-image-55526 size-full entered litespeed-loaded"><img loading="lazy"  src="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-2.jpg" sizes="(max-width: 892px) 100vw, 892px" srcset="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-2.jpg 892w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-2-800x376.jpg 800w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-2-768x361.jpg 768w" alt="multicast la gi" width="892" height="419" data-lazyloaded="1" data-src="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-2.jpg" data-srcset="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-2.jpg 892w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-2-800x376.jpg 800w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-2-768x361.jpg 768w" data-sizes="(max-width: 892px) 100vw, 892px" data-ll-status="loaded" data-is-external-image="true"></figure>
+<figure id="attachment_55526" class="wp-caption aligncenter" aria-describedby="caption-attachment-55526">
+<figure class="wp-image-55526 size-full entered litespeed-loaded"><figure class="is-loaded"><img  src="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-2.jpg" sizes="(max-width: 892px) 100vw, 892px" srcset="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-2.jpg 892w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-2-800x376.jpg 800w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-2-768x361.jpg 768w" alt="multicast la gi" width="892" height="419" loading="lazy" data-lazyloaded="1" data-src="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-2.jpg" data-srcset="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-2.jpg 892w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-2-800x376.jpg 800w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-2-768x361.jpg 768w" data-sizes="(max-width: 892px) 100vw, 892px" data-ll-status="loaded" data-is-external-image="true" data-is-external-image="true"></figure></figure>
 <figcaption id="caption-attachment-55526" class="wp-caption-text">IGMP snooping</figcaption>
 </figure>
 <h3 id="ftoc-heading-13" class="ftwp-heading"><strong>6.3. PIM</strong></h3>
@@ -470,7 +441,8 @@ public class CalculClient {
 <li aria-level="1"><strong>PIM Dense Mode (PIM-DM): </strong>Chế độ này giả sử rằng tất cả các thiết bị đầu cuối đều quan tâm đến lưu lượng Multicast. Nó truyền phát lưu lượng đến tất cả các đường dẫn.</li>
 <li aria-level="1"><strong>PIM Sparse Mode (PIM-SM): </strong>Chế độ này giả định rằng chỉ có một số ít các đầu cuối quan tâm đến lưu lượng Multicast. Nó yêu cầu có một trung tâm phân phối (Rendezvous Point – RP) để quản lý và điều phối lưu lượng đến các đường dẫn mà có đầu cuối quan tâm.</li>
 </ul>
-<figure id="attachment_55531" class="wp-caption aligncenter" aria-describedby="caption-attachment-55531"><figure class="wp-image-55531 size-full entered litespeed-loaded"><img loading="lazy"  src="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-3.jpg" sizes="(max-width: 845px) 100vw, 845px" srcset="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-3.jpg 845w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-3-800x346.jpg 800w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-3-768x332.jpg 768w" alt="multicast la gi" width="845" height="365" data-lazyloaded="1" data-src="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-3.jpg" data-srcset="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-3.jpg 845w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-3-800x346.jpg 800w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-3-768x332.jpg 768w" data-sizes="(max-width: 845px) 100vw, 845px" data-ll-status="loaded" data-is-external-image="true"></figure>
+<figure id="attachment_55531" class="wp-caption aligncenter" aria-describedby="caption-attachment-55531">
+<figure class="wp-image-55531 size-full entered litespeed-loaded"><figure class="is-loaded"><img  src="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-3.jpg" sizes="(max-width: 845px) 100vw, 845px" srcset="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-3.jpg 845w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-3-800x346.jpg 800w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-3-768x332.jpg 768w" alt="multicast la gi" width="845" height="365" loading="lazy" data-lazyloaded="1" data-src="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-3.jpg" data-srcset="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-3.jpg 845w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-3-800x346.jpg 800w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-3-768x332.jpg 768w" data-sizes="(max-width: 845px) 100vw, 845px" data-ll-status="loaded" data-is-external-image="true" data-is-external-image="true"></figure></figure>
 <figcaption id="caption-attachment-55531" class="wp-caption-text">PIM là một giao thức được sử dụng trong mạng Multicast để quản lý và điều phối lưu lượng qua các đường dẫn khác nhau.</figcaption>
 </figure>
 <h3 id="ftoc-heading-14" class="ftwp-heading"><strong>6.4. Rendezvous Point</strong></h3>
@@ -485,7 +457,8 @@ public class CalculClient {
 <li aria-level="1"><strong>Đăng ký nhóm Multicast:</strong> Các router trong mạng đăng ký với RP để thông báo về sự quan tâm của chúng đến các nhóm cụ thể. RP giữ thông tin về các nhóm và các router đăng ký với nó.</li>
 <li aria-level="1"><strong>Phân phối lưu lượng: </strong>Khi có lưu lượng từ nguồn, RP quyết định đường dẫn tối ưu để phân phối lưu lượng đến các router và đầu cuối quan tâm.</li>
 </ul>
-<figure id="attachment_55536" class="wp-caption aligncenter" aria-describedby="caption-attachment-55536"><figure class="wp-image-55536 size-full entered litespeed-loaded"><img loading="lazy"  src="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-4.jpg" sizes="(max-width: 850px) 100vw, 850px" srcset="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-4.jpg 850w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-4-800x345.jpg 800w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-4-768x332.jpg 768w" alt="multicast la gi" width="850" height="367" data-lazyloaded="1" data-src="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-4.jpg" data-srcset="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-4.jpg 850w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-4-800x345.jpg 800w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-4-768x332.jpg 768w" data-sizes="(max-width: 850px) 100vw, 850px" data-ll-status="loaded" data-is-external-image="true"></figure>
+<figure id="attachment_55536" class="wp-caption aligncenter" aria-describedby="caption-attachment-55536">
+<figure class="wp-image-55536 size-full entered litespeed-loaded"><figure class="is-loaded"><img  src="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-4.jpg" sizes="(max-width: 850px) 100vw, 850px" srcset="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-4.jpg 850w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-4-800x345.jpg 800w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-4-768x332.jpg 768w" alt="multicast la gi" width="850" height="367" loading="lazy" data-lazyloaded="1" data-src="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-4.jpg" data-srcset="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-4.jpg 850w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-4-800x345.jpg 800w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-4-768x332.jpg 768w" data-sizes="(max-width: 850px) 100vw, 850px" data-ll-status="loaded" data-is-external-image="true" data-is-external-image="true"></figure></figure>
 <figcaption id="caption-attachment-55536" class="wp-caption-text">Rendezvous Point</figcaption>
 </figure>
 <blockquote>
@@ -562,7 +535,8 @@ public class CalculClient {
 <li aria-level="1">Multicast được sử dụng để truyền thông tin đến một nhóm người nhận cụ thể.</li>
 <li aria-level="1">Broadcast gửi thông điệp đến tất cả các thiết bị trong mạng.</li>
 </ul>
-<figure id="attachment_55541" class="wp-caption aligncenter" aria-describedby="caption-attachment-55541"><figure class="wp-image-55541 size-full entered litespeed-loaded"><img loading="lazy"  src="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-5.jpg" sizes="(max-width: 1234px) 100vw, 1234px" srcset="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-5.jpg 1234w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-5-800x373.jpg 800w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-5-768x358.jpg 768w" alt="multicast la gi" width="1234" height="576" data-lazyloaded="1" data-src="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-5.jpg" data-srcset="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-5.jpg 1234w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-5-800x373.jpg 800w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-5-768x358.jpg 768w" data-sizes="(max-width: 1234px) 100vw, 1234px" data-ll-status="loaded" data-is-external-image="true"></figure>
+<figure id="attachment_55541" class="wp-caption aligncenter" aria-describedby="caption-attachment-55541">
+<figure class="wp-image-55541 size-full entered litespeed-loaded"><figure class="is-loaded"><img  src="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-5.jpg" sizes="(max-width: 1234px) 100vw, 1234px" srcset="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-5.jpg 1234w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-5-800x373.jpg 800w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-5-768x358.jpg 768w" alt="multicast la gi" width="1234" height="576" loading="lazy" data-lazyloaded="1" data-src="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-5.jpg" data-srcset="https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-5.jpg 1234w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-5-800x373.jpg 800w, https://vinahost.vn/wp-content/uploads/2024/03/multicast-la-gi-5-768x358.jpg 768w" data-sizes="(max-width: 1234px) 100vw, 1234px" data-ll-status="loaded" data-is-external-image="true" data-is-external-image="true"></figure></figure>
 <figcaption id="caption-attachment-55541" class="wp-caption-text">Phân biệt điểm khác nhau giữa Unicast, Multicast và Broadcast</figcaption>
 </figure>
 <h2 id="ftoc-heading-21" class="ftwp-heading"><strong>10. Hướng dẫn cách tạo Multicast trên mạng máy tính </strong></h2>
@@ -602,12 +576,12 @@ public class CalculClient {
     <entry>
         <title>Chương 7: Lập trình socket cho giao thức UDP</title>
         <author>
-            <name>Trần Huy Phương</name>
+            <name>HuyPhuong</name>
         </author>
-        <link href="https://github.com/HuyPhuongVN/PhuongBlog.git/posts/chuong-7-lap-trinh-socket-cho-giao-thuc-udp/"/>
-        <id>https://github.com/HuyPhuongVN/PhuongBlog.git/posts/chuong-7-lap-trinh-socket-cho-giao-thuc-udp/</id>
+        <link href="https://HuyPhuongVN.github.io/rainblog.git/chuong-7-lap-trinh-socket-cho-giao-thuc-udp.html"/>
+        <id>https://HuyPhuongVN.github.io/rainblog.git/chuong-7-lap-trinh-socket-cho-giao-thuc-udp.html</id>
 
-        <updated>2024-12-27T19:35:18+07:00</updated>
+        <updated>2025-01-07T14:42:57+07:00</updated>
             <summary>
                 <![CDATA[
                     1. Lập tình socket với UDP Đầu tiên, UDP là viết tắt của User Datagram Protocol. UDP được giới thiệu vào năm 1980 và là một trong những giao thức mạng lâu đời nhất còn được sử dụng. UDP được sử dụng cho những đường&hellip;
@@ -616,13 +590,13 @@ public class CalculClient {
         <content type="html">
             <![CDATA[
                 <h3>1. Lập tình socket với UDP</h3>
-<p><img loading="lazy" src="https://s3-sgn09.fptcloud.com/codelearnstorage/Media/Default/Users/TrisDo/socket2/sth.png" alt="" width="575" height="247" data-is-external-image="true"></p>
+<figure class="is-loaded"><img  src="https://s3-sgn09.fptcloud.com/codelearnstorage/Media/Default/Users/TrisDo/socket2/sth.png" alt="" width="575" height="247" loading="lazy" data-is-external-image="true" data-is-external-image="true"></figure>
 <p>Đầu tiên, UDP là viết tắt của User Datagram Protocol. UDP được giới thiệu vào năm 1980 và là một trong những giao thức mạng lâu đời nhất còn được sử dụng. UDP được sử dụng cho những đường truyền yêu cầu tốc độ cao và thời gian ngắn như video playback, game stream, game online, hay được sử dụng để tìm kiếm trong hệ thống tên miền (DNS). Giao thức này giúp tăng tốc độ truyền tải vì nó không yêu cầu kết nối giữa máy gửi và máy nhận trước khi 2 phía có thể trao đổi thông điệp. Chính điều này UDP cung cấp đường truyền không tin cậy bằng gói dữ liệu/datagrams (group of bytes) trong khi đó TCP cung cấp đường truyền tin cậy bằng dòng byte, vì vậy UDP socket và TCP socket cũng có những khác biệt cơ bản.</p>
-<p><img loading="lazy" src="https://s3-sgn09.fptcloud.com/codelearnstorage/Media/Default/Users/TrisDo/socket2/sth2.png" alt="" width="551" height="329" data-is-external-image="true"></p>
+<figure class="is-loaded"><img  src="https://s3-sgn09.fptcloud.com/codelearnstorage/Media/Default/Users/TrisDo/socket2/sth2.png" alt="" width="551" height="329" loading="lazy" data-is-external-image="true" data-is-external-image="true"></figure>
 <p>Với UDP socket, chúng ta không cần thiết lập liên kết “handshaking” giữa client và server trước khi truyền thông điệp, thông điệp được gửi đi một cách độc lập. Bên gửi sẽ chỉ rõ địa chỉ IP và số hiệu cổng (port number) của bên nhận. Sau khi thông điệp được truyền đến bên nhận, bện nhận có thể dựa vào địa chỉ IP và số hiệu cổng tương ứng của bên gửi được gắn trên gói tin để gửi lại response.</p>
 <p>Chúng ta có thể thấy rằng việc truyền bằng gói tin có thể làm dữ liệu truyền đến không theo thứ tự hoặc bị mất, thêm nữa UDP không cung cấp chức năng kiểm soát lỗi, mất gói tin nhưng một phần lợi ích của việc truyền bằng gói tin chính là tốc độ và thời gian.</p>
 <p>Trước khi lập tình socket UDP chúng ta cần biết quy trình hoạt động của mỗi bên client và server, giữa client và server của UDP socket có ít khác biệt hơn so với TCP socket.</p>
-<p>  <img loading="lazy" src="https://s3-sgn09.fptcloud.com/codelearnstorage/Media/Default/Users/TrisDo/socket2/sth3.png" alt="" width="544" height="355" data-is-external-image="true"></p>
+<figure class="is-loaded">  <img  src="https://s3-sgn09.fptcloud.com/codelearnstorage/Media/Default/Users/TrisDo/socket2/sth3.png" alt="" width="544" height="355" loading="lazy" data-is-external-image="true" data-is-external-image="true"></figure>
 <p>Với UDP ta không cần thiết lập liên kết 2 chiều giữa client và server.</p>
 <p>Về phía client:</p>
 <ul>
@@ -754,7 +728,7 @@ public class clientUDP {
 <p>Cuối cùng vòng lặp while sẽ kết thúc khi nhập “quit” từ bàn phím, sau đó socket phía client sẽ được đóng với phương thức close().</p>
 <h3>Kết quả</h3>
 <p>Đây là kết quả khi chạy lần lượt 2 file trên:</p>
-<p><img loading="lazy" src="https://s3-sgn09.fptcloud.com/codelearnstorage/Media/Default/Users/TrisDo/socket2/Annotation%202020-08-11%20131000.jpg" alt="" width="342" height="194" data-is-external-image="true"></p>
+<figure class="is-loaded"><img  src="https://s3-sgn09.fptcloud.com/codelearnstorage/Media/Default/Users/TrisDo/socket2/Annotation%202020-08-11%20131000.jpg" alt="" width="342" height="194" loading="lazy" data-is-external-image="true" data-is-external-image="true"></figure>
 <h3>3. UDP khác TCP như thế nào?</h3>
 <p>Như vậy các bạn vừa tìm hiểu xong về lập trình socket với UDP. Qua đó hình dung được sự khác nhau giữa 2 giao thức UDP và TCP.</p>
 <p>UDP cho tốc độ nhanh, không tốn chi phí thiết lập liên kết nên phú hợp cho thông báo dữ liệu thời tiết, phát video trực tuyến, dịch vụ báo giá cổ phiếu (không dùng cho giao dịch) hoặc cho lưu lương đa luồng,…Trong khi đó, TCP cung cấp dịch vụ truyền dòng byte tin cậy thông qua việc thiết lập liên kết 2 chiều và có kiểm tra lỗi, mất dữ liệu nên phù hợp với việc truyền file, gửi email, tình duyệt web,…</p>
@@ -766,14 +740,14 @@ public class clientUDP {
         </content>
     </entry>
     <entry>
-        <title>Chương 6: Kỹ thuật đa tiến trình và tuần tự hoá... Ứng dụng mạng</title>
+        <title>Chương 6: Chương 6: Kỹ thuật đa tiến trình và tuần tự hoá... Ứng dụng mạng</title>
         <author>
-            <name>Trần Huy Phương</name>
+            <name>HuyPhuong</name>
         </author>
-        <link href="https://github.com/HuyPhuongVN/PhuongBlog.git/posts/chuong-6-ky-thuat-da-tien-trinh-va-tuan-tu-hoa-ung-dung-mang/"/>
-        <id>https://github.com/HuyPhuongVN/PhuongBlog.git/posts/chuong-6-ky-thuat-da-tien-trinh-va-tuan-tu-hoa-ung-dung-mang/</id>
+        <link href="https://HuyPhuongVN.github.io/rainblog.git/chuong-6-chuong-6-ky-thuat-da-tien-trinh-va-tuan-tu-hoa-ung-dung-mang.html"/>
+        <id>https://HuyPhuongVN.github.io/rainblog.git/chuong-6-chuong-6-ky-thuat-da-tien-trinh-va-tuan-tu-hoa-ung-dung-mang.html</id>
 
-        <updated>2024-12-27T19:33:57+07:00</updated>
+        <updated>2025-01-07T14:42:25+07:00</updated>
             <summary>
                 <![CDATA[
                     Kỹ Thuật Đa Tiến Trình và Tuần Tự Hoá: Ứng Dụng Mạng Trong thế giới lập trình hiện đại, việc xử lý các tác vụ phức tạp và tối ưu hóa hiệu suất hệ thống là điều không thể thiếu. Một trong những kỹ thuật&hellip;
@@ -782,17 +756,17 @@ public class clientUDP {
         <content type="html">
             <![CDATA[
                 <h3><strong>Kỹ Thuật Đa Tiến Trình và Tuần Tự Hoá: Ứng Dụng Mạng</strong></h3>
-<p>Trong thế giới lập trình hiện đại, việc xử lý các tác vụ phức tạp và tối ưu hóa hiệu suất hệ thống là điều không thể thiếu. Một trong những kỹ thuật quan trọng trong việc này là <strong>đa tiến trình</strong> và <strong>tuần tự hoá đối tượng</strong>. Cùng tôi khám phá cách những kỹ thuật này có thể cải thiện hiệu suất ứng dụng mạng của bạn!</p>
-<p>Trong lập trình, đặc biệt là khi xây dựng ứng dụng mạng, việc tối ưu hoá hiệu suất và đảm bảo tính ổn định là rất quan trọng. <strong>Đa tiến trình</strong> và <strong>tuần tự hoá đối tượng</strong> là hai kỹ thuật quan trọng giúp đạt được điều này. Hãy cùng tìm hiểu và xem các ví dụ về cách sử dụng chúng trong Java.</p>
+<p>Trong thế giới lập trình hiện đại, việc xử lý các tác vụ phức tạp và tối ưu hóa hiệu suất hệ thống là điều không thể thiếu. Một trong những kỹ thuật quan trọng trong việc này là <strong>đa tiến trình</strong> và <strong>tuần tự hoá đối tượng</strong>. Cùng tôi khám phá cách những kỹ thuật này có thể cải thiện hiệu suất ứng dụng mạng của bạn!</p>
+<p>Trong lập trình, đặc biệt là khi xây dựng ứng dụng mạng, việc tối ưu hoá hiệu suất và đảm bảo tính ổn định là rất quan trọng. <strong>Đa tiến trình</strong> và <strong>tuần tự hoá đối tượng</strong> là hai kỹ thuật quan trọng giúp đạt được điều này. Hãy cùng tìm hiểu và xem các ví dụ về cách sử dụng chúng trong Java.</p>
 <h4><strong>1. Đa Tiến Trình trong Java</strong></h4>
 <p>Đa tiến trình cho phép bạn thực thi nhiều tác vụ đồng thời, giúp cải thiện hiệu suất và tốc độ phản hồi. Điều này đặc biệt quan trọng khi xây dựng các ứng dụng mạng cần xử lý nhiều tác vụ cùng một lúc.</p>
 <h5><strong>Ví dụ minh hoạ: Đa Tiến Trình với Máy Chủ Đơn Giản trong Java</strong></h5>
 <pre>import java.util.concurrent.ExecutorService;<br>import java.util.concurrent.Executors;<br><br>public class MultiThreadedServer {<br>    public static void main(String[] args) {<br>        ExecutorService executorService = Executors.newFixedThreadPool(5);  // Tạo một pool 5 tiến trình<br><br>        for (int i = 0; i &lt; 5; i++) {<br>            int requestId = i;<br>            executorService.submit(() -&gt; handleRequest(requestId));  // Gửi yêu cầu đến tiến trình xử lý<br>        }<br><br>        executorService.shutdown();  // Đóng executor service khi sử dụng xong<br>    }<br><br>    private static void handleRequest(int requestId) {<br>        System.out.println("Đang xử lý yêu cầu #" + requestId + " trong tiến trình " + Thread.currentThread().getName());<br>        try {<br>            Thread.sleep(2000);  // Giả lập thời gian xử lý yêu cầu<br>        } catch (InterruptedException e) {<br>            e.printStackTrace();<br>        }<br>        System.out.println("Yêu cầu #" + requestId + " đã hoàn thành.");<br>    }<br>}<br><br></pre>
 <p><strong>Giải thích</strong>:</p>
 <ul>
-<li><strong>ExecutorService</strong> được sử dụng để quản lý pool các tiến trình.</li>
+<li><strong>ExecutorService</strong> được sử dụng để quản lý pool các tiến trình.</li>
 <li>Máy chủ sẽ xử lý đồng thời 5 yêu cầu, mỗi yêu cầu được xử lý bởi một tiến trình khác nhau.</li>
-<li>Mỗi yêu cầu được giả lập xử lý với <code>Thread.sleep()</code>.</li>
+<li>Mỗi yêu cầu được giả lập xử lý với <code>Thread.sleep()</code>.</li>
 </ul>
 <h5><strong>Lợi ích của Đa Tiến Trình trong Java</strong>:</h5>
 <ul>
@@ -801,13 +775,13 @@ public class clientUDP {
 <li><strong>Giảm độ trễ</strong>: Đặc biệt hữu ích trong các ứng dụng thời gian thực hoặc mạng.</li>
 </ul>
 <h4><strong>2. Tuần Tự Hoá Đối Tượng trong Java</strong></h4>
-<p><strong>Tuần tự hoá đối tượng</strong> là quá trình chuyển đổi các đối tượng thành một chuỗi byte để có thể lưu trữ hoặc truyền tải qua mạng, sau đó phục hồi lại đối tượng khi cần thiết. Điều này rất quan trọng trong các ứng dụng mạng khi dữ liệu cần được truyền tải giữa các hệ thống khác nhau.</p>
+<p><strong>Tuần tự hoá đối tượng</strong> là quá trình chuyển đổi các đối tượng thành một chuỗi byte để có thể lưu trữ hoặc truyền tải qua mạng, sau đó phục hồi lại đối tượng khi cần thiết. Điều này rất quan trọng trong các ứng dụng mạng khi dữ liệu cần được truyền tải giữa các hệ thống khác nhau.</p>
 <h5><strong>Ví dụ minh hoạ: Tuần Tự Hoá Đối Tượng trong Java</strong></h5>
 <pre>import java.io.*;<br><br>class User implements Serializable {<br>    private String username;<br>    private String email;<br><br>    public User(String username, String email) {<br>        this.username = username;<br>        this.email = email;<br>    }<br><br>    public String getUsername() {<br>        return username;<br>    }<br><br>    public String getEmail() {<br>        return email;<br>    }<br><br>    @Override<br>    public String toString() {<br>        return "User{username='" + username + "', email='" + email + "'}";<br>    }<br>}<br><br>public class SerializationExample {<br>    public static void main(String[] args) {<br>        User user = new User("huyphuong", "huyphuong@example.com");<br><br>        // Tuần tự hoá đối tượng vào một tệp<br>        try (ObjectOutputStream out = new ObjectOutputStream(new FileOutputStream("user.ser"))) {<br>            out.writeObject(user);<br>            System.out.println("Đối tượng đã được tuần tự hoá: " + user);<br>        } catch (IOException e) {<br>            e.printStackTrace();<br>        }<br><br>        // Phục hồi đối tượng từ tệp<br>        try (ObjectInputStream in = new ObjectInputStream(new FileInputStream("user.ser"))) {<br>            User deserializedUser = (User) in.readObject();<br>            System.out.println("Đối tượng đã phục hồi: " + deserializedUser);<br>        } catch (IOException | ClassNotFoundException e) {<br>            e.printStackTrace();<br>        }<br>    }<br>}</pre>
 <p><strong>Giải thích</strong>:</p>
 <ul>
-<li>Lớp <code>User</code> implements <code>Serializable</code> để có thể tuần tự hoá các đối tượng của lớp này.</li>
-<li>Đối tượng <code>user</code> được tuần tự hoá vào tệp <code>user.ser</code>, sau đó phục hồi lại từ tệp này.</li>
+<li>Lớp <code>User</code> implements <code>Serializable</code> để có thể tuần tự hoá các đối tượng của lớp này.</li>
+<li>Đối tượng <code>user</code> được tuần tự hoá vào tệp <code>user.ser</code>, sau đó phục hồi lại từ tệp này.</li>
 <li>Kỹ thuật tuần tự hoá giúp truyền tải đối tượng qua mạng hoặc lưu trữ trạng thái của đối tượng.</li>
 </ul>
 <h5><strong>Lợi ích của Tuần Tự Hoá trong Java</strong>:</h5>
@@ -817,7 +791,7 @@ public class clientUDP {
 <li><strong>Giao tiếp giữa các hệ thống</strong>: Có thể truyền tải dữ liệu qua các hệ thống khác nhau, kể cả những hệ thống không giống nhau về nền tảng.</li>
 </ul>
 <h4><strong>3. Kết Hợp Đa Tiến Trình và Tuần Tự Hoá trong Ứng Dụng Mạng</strong></h4>
-<p>Bây giờ, chúng ta sẽ kết hợp cả <strong>đa tiến trình</strong> và <strong>tuần tự hoá</strong> để tạo ra một ứng dụng mạng, nơi nhiều tiến trình sẽ xử lý yêu cầu và tuần tự hoá dữ liệu để truyền tải.</p>
+<p>Bây giờ, chúng ta sẽ kết hợp cả <strong>đa tiến trình</strong> và <strong>tuần tự hoá</strong> để tạo ra một ứng dụng mạng, nơi nhiều tiến trình sẽ xử lý yêu cầu và tuần tự hoá dữ liệu để truyền tải.</p>
 <h5><strong>Ví dụ Minh Hoạ: Máy Chủ Đa Tiến Trình với Tuần Tự Hoá trong Ứng Dụng Mạng</strong></h5>
 <pre>import java.io.*;<br>import java.net.*;<br>import java.util.concurrent.ExecutorService;<br>import java.util.concurrent.Executors;<br><br>class User implements Serializable {<br>    private String username;<br>    private String email;<br><br>    public User(String username, String email) {<br>        this.username = username;<br>        this.email = email;<br>    }<br><br>    public String getUsername() {<br>        return username;<br>    }<br><br>    public String getEmail() {<br>        return email;<br>    }<br><br>    @Override<br>    public String toString() {<br>        return "User{username='" + username + "', email='" + email + "'}";<br>    }<br>}<br><br>public class NetworkServer {<br>    public static void main(String[] args) throws IOException {<br>        ServerSocket serverSocket = new ServerSocket(8080);<br>        ExecutorService executorService = Executors.newFixedThreadPool(5);  // Pool 5 tiến trình<br><br>        System.out.println("Server đang lắng nghe tại cổng 8080...");<br><br>        while (true) {<br>            Socket socket = serverSocket.accept();<br>            System.out.println("Khách hàng đã kết nối: " + socket.getInetAddress());<br><br>            executorService.submit(() -&gt; {<br>                try {<br>                    // Xử lý yêu cầu trong tiến trình riêng<br>                    ObjectInputStream input = new ObjectInputStream(socket.getInputStream());<br>                    User user = (User) input.readObject();<br>                    System.out.println("Nhận dữ liệu người dùng: " + user);<br><br>                    // Gửi lại dữ liệu tuần tự hoá cho khách hàng<br>                    ObjectOutputStream output = new ObjectOutputStream(socket.getOutputStream());<br>                    output.writeObject(new User("server_response", "response@example.com"));<br>                    System.out.println("Gửi phản hồi cho khách hàng.");<br><br>                    socket.close();<br>                } catch (IOException | ClassNotFoundException e) {<br>                    e.printStackTrace();<br>                }<br>            });<br>        }<br>    }<br>}</pre>
 <p><strong>Giải thích</strong>:</p>
@@ -828,7 +802,7 @@ public class clientUDP {
 </ul>
 <hr>
 <h3><strong>Kết Luận</strong></h3>
-<p>Kết hợp <strong>đa tiến trình</strong> và <strong>tuần tự hoá đối tượng</strong> trong Java giúp bạn xây dựng các ứng dụng mạng hiệu quả và dễ mở rộng. Đa tiến trình giúp tăng cường khả năng xử lý đồng thời, trong khi tuần tự hoá giúp bạn truyền tải và lưu trữ dữ liệu một cách hiệu quả.</p>
+<p>Kết hợp <strong>đa tiến trình</strong> và <strong>tuần tự hoá đối tượng</strong> trong Java giúp bạn xây dựng các ứng dụng mạng hiệu quả và dễ mở rộng. Đa tiến trình giúp tăng cường khả năng xử lý đồng thời, trong khi tuần tự hoá giúp bạn truyền tải và lưu trữ dữ liệu một cách hiệu quả.</p>
 <p>Cả hai kỹ thuật này đều rất quan trọng khi xây dựng các ứng dụng mạng hoặc hệ thống phân tán, và sẽ giúp bạn cải thiện hiệu suất và độ ổn định của ứng dụng.</p>
             ]]>
         </content>
@@ -836,12 +810,12 @@ public class clientUDP {
     <entry>
         <title>Chương 5: Lập trình socket cho giao thức TCP</title>
         <author>
-            <name>Trần Huy Phương</name>
+            <name>HuyPhuong</name>
         </author>
-        <link href="https://github.com/HuyPhuongVN/PhuongBlog.git/posts/chuong-5-lap-trinh-socket-cho-giao-thuc-tcp/"/>
-        <id>https://github.com/HuyPhuongVN/PhuongBlog.git/posts/chuong-5-lap-trinh-socket-cho-giao-thuc-tcp/</id>
+        <link href="https://HuyPhuongVN.github.io/rainblog.git/chuong-5-lap-trinh-socket-cho-giao-thuc-tcp.html"/>
+        <id>https://HuyPhuongVN.github.io/rainblog.git/chuong-5-lap-trinh-socket-cho-giao-thuc-tcp.html</id>
 
-        <updated>2024-12-27T19:32:19+07:00</updated>
+        <updated>2025-01-07T14:41:56+07:00</updated>
             <summary>
                 <![CDATA[
                     Socket được biết đến là cánh cửa giao tiếp giữa hai tiến trình ứng dụng. Socket hỗ trợ nhiều ngôn ngữ (C, java, perl, python,…) cũng như nhiều platform (*nix, Windows,…). Socket được viết bằng các ngôn ngữ khác nhau và chạy trên bất kỳ&hellip;
@@ -852,9 +826,9 @@ public class clientUDP {
                 <p><strong>Socket được biết đến là cánh cửa giao tiếp giữa hai tiến trình ứng dụng. Socket hỗ trợ nhiều ngôn ngữ (C, java, perl, python,…) cũng như nhiều platform (*nix, Windows,…). Socket được viết bằng các ngôn ngữ khác nhau và chạy trên bất kỳ platform nào đều có thể giao tiếp với nhau. Trong bài viết này mình gửi đến các bạn khái niệm cơ bản về Socket cũng như cách lập trình Socket với các loại giao thức.</strong></p>
 <h3><strong>1. Tổng quan về Socket</strong></h3>
 <p>Trong hệ thống mạng máy tính tồn tại những mô hình tham chiếu có kiến trúc phần tầng (OSI, TCP/IP…) nhằm hỗ trợ chức năng trao đôi thông tin giữa các ứng dụng ở nhiều máy tính khác nhau.</p>
-<h4><img loading="lazy" src="https://s3-sgn09.fptcloud.com/codelearnstorage/Media/Default/Users/tria3ltt_40gmail_2Ecom/socketJavaImage/Annotation%202020-08-08%20132406.jpg" alt="" width="625" height="265" data-is-external-image="true"></h4>
+<h4><figure class="is-loaded"><img  src="https://s3-sgn09.fptcloud.com/codelearnstorage/Media/Default/Users/tria3ltt_40gmail_2Ecom/socketJavaImage/Annotation%202020-08-08%20132406.jpg" alt="" width="625" height="265" loading="lazy" data-is-external-image="true" data-is-external-image="true"></figure></h4>
 <p>Dữ liệu bên gửi sẽ được đóng gói (Encapsulation) từ tầng trên đến tầng cuối là tầng vật lí (Physical Layer), sau đó nhờ tầng vật lí này chuyển dữ liệu đến tầng vật lí máy bên nhận, bên nhận tiến hành giải mã (decapsulation) gói dữ kiện từ tầng dưới lên tầng trên cùng, là tầng ứng dụng (application layer).</p>
-<p><img loading="lazy" src="https://s3-sgn09.fptcloud.com/codelearnstorage/Media/Default/Users/tria3ltt_40gmail_2Ecom/socketJavaImage/Annotation%202020-08-08%20160924.jpg" alt="" width="628" height="316" data-is-external-image="true"></p>
+<figure class="is-loaded"><img  src="https://s3-sgn09.fptcloud.com/codelearnstorage/Media/Default/Users/tria3ltt_40gmail_2Ecom/socketJavaImage/Annotation%202020-08-08%20160924.jpg" alt="" width="628" height="316" loading="lazy" data-is-external-image="true" data-is-external-image="true"></figure>
 <p>Ở đây, Socket chính là cửa giao tiếp giữa tầng ứng dụng và tầng giao vận (Transport layer). Nói cách khác, Socket là giao diện do ứng dụng tạo ra trên máy trạm, quản lí bởi hệ điều hành qua đó các ứng dụng có thể gửi/nhận thông điệp đến/từ các ứng  dụng khác. Ở đó, Socket sẽ được ràng buộc với một mã số cổng (Port Number) để giúp tầng giao vận định danh được ứng dụng nhận/gửi thông điệp.</p>
 <p>Các bạn có thể thấy ở hình ảnh trên, tầng giao vận có 2 phương thức là TCP (Ttransmission Control Protocol) và UDP (User Datagram Protocol), như vậy socket cơ bản là có 2 loại: Stream Socket sử dụng TCP truyền dòng bytes và Datagram Socket dử dụng UDP truyền gói tin. Với ngôn ngữ lập trình Java, chúng ta được cung cấp 3 loại khác nhau của sockets:</p>
 <ol>
@@ -865,7 +839,7 @@ public class clientUDP {
 <p>Socket được hỗ trợ trên nhiều ngôn ngữ như C, Java, Pearl,  Python,…. Sau đây là một ví dụ lập tình socket với Java.</p>
 <h3><strong>2. Lập trình TCP Socket với Java</strong></h3>
 <p>Trong bài viết này mình sẽ nói về lập trình Socket sử dụng TCP.</p>
-<p><img loading="lazy" src="https://s3-sgn09.fptcloud.com/codelearnstorage/Media/Default/Users/tria3ltt_40gmail_2Ecom/socketJavaImage/Annotation%202020-08-08%20160941.jpg" alt="" width="585" height="246" data-is-external-image="true"></p>
+<figure class="is-loaded"><img  src="https://s3-sgn09.fptcloud.com/codelearnstorage/Media/Default/Users/tria3ltt_40gmail_2Ecom/socketJavaImage/Annotation%202020-08-08%20160941.jpg" alt="" width="585" height="246" loading="lazy" data-is-external-image="true" data-is-external-image="true"></figure>
 <p>Đúng như tính chất của TCP chúng ta cần có liên kết 2 chiều trước khi server và client có thể trao đổi thông điệp với nhau.</p>
 <p>Ban đầu, phía server tạo Socket được ràng buộc với một cổng (port number) để chờ nhận yêu cầu từ phía client.</p>
 <p>Tiếp đến phía client yêu cầu server bằng cách tạo một Socket TCP trên máy kèm với địa chỉ IP và port number của tiến tình tương ứng trên máy server. Khi client tạo Socket, client TCP tạo liên kết với server TCP và chờ chấp nhận kết nối từ server.</p>
@@ -878,7 +852,7 @@ public class clientUDP {
 <li>Server sẽ chuyển lại dòng văn bản kèm theo “Server accepted” tới phía client qua Socket</li>
 <li>Client đọc dòng văn bản từ socket và in ra dòng văn bản nhận được từ server</li>
 </ul>
-<p><img loading="lazy" src="https://s3-sgn09.fptcloud.com/codelearnstorage/Media/Default/Users/tria3ltt_40gmail_2Ecom/socketJavaImage/Annotation%202020-08-08%20132421.jpg" alt="" width="557" height="370" data-is-external-image="true"></p>
+<figure class="is-loaded"><img  src="https://s3-sgn09.fptcloud.com/codelearnstorage/Media/Default/Users/tria3ltt_40gmail_2Ecom/socketJavaImage/Annotation%202020-08-08%20132421.jpg" alt="" width="557" height="370" loading="lazy" data-is-external-image="true" data-is-external-image="true"></figure>
 <p>Chúng ta có thể thấy rằng mỗi phía server và client đều có 2 luồng dữ liệu, một luồng ra Socket để gửi thông điệp và một luồng vào từ Socket để nhận thông điệp, như vậy với mỗi bên mình có hai biến input và output (inFromServer, outToServer và inFromClient, outToClient).</p>
 <p>Trong ví dụ này mình dùng công cụ NetBeans IDE  và Socket Class, serverSocket của Java. Sau đây là file java cho phía server:</p>
 <pre class="language-java" tabindex="0"><code>package socket;
@@ -971,7 +945,7 @@ public class clientTCP {
 <p>Biến sentence_to_server sẽ được chuyển lên socket để truyền tới server qua phương thức writeBytes().</p>
 <p>Sau khi server nhận dòng văn bản, xử lí và chuyển lên socket, biến <code>sentence_from_server</code> sẽ nhận dòng văn bản đó thông qua phương thức readLine(). Cuối cùng chúng ta in ra dòng văn bản vừa nhận từ Server và đong socket bằng phương thức close().</p>
 <p>Để chạy được ví dụ này chúng ta cần run file java phía server trước để thiết lập server socket, sau đó run file java phía client. Đây là kết quả sau khi chạy lần lượt 2 file trên.</p>
-<p><img loading="lazy" src="https://s3-sgn09.fptcloud.com/codelearnstorage/Media/Default/Users/tria3ltt_40gmail_2Ecom/socketJavaImage/Annotation%202020-08-08%20163442.jpg" alt="" width="530" height="201" data-is-external-image="true"></p>
+<figure class="is-loaded"><img  src="https://s3-sgn09.fptcloud.com/codelearnstorage/Media/Default/Users/tria3ltt_40gmail_2Ecom/socketJavaImage/Annotation%202020-08-08%20163442.jpg" alt="" width="530" height="201" loading="lazy" data-is-external-image="true" data-is-external-image="true"></figure>
 <h3>3. Lời kết</h3>
 <p>Qua bài này, mình và các bạn đã tìm hiểu khái niệm về socket cũng như cách lập trình socket với TCP trong java. Về cơ bản lập trình Socket trong các ngôn ngữ lập trình khác không có nhiều khác biệt, việc viết các chương trình giao tiếp như vậy trong nhiều ngôn ngữ khác nhau giúp các bạn luyện tập tốt hơn trong quá trình học tập. Trong bài viết có nhiều thuật ngữ, khái niệm liên quan đến mạng máy tính, nếu có cơ hội mình sẽ viết trong các bài blog tiếp theo. Cảm ơn các bạn đọc. Chúc các bạn thành công trên con đường học tập!</p>
             ]]>
@@ -980,24 +954,24 @@ public class clientTCP {
     <entry>
         <title>Chương 4: Quản lý địa chỉ kết nối mạng</title>
         <author>
-            <name>Trần Huy Phương</name>
+            <name>HuyPhuong</name>
         </author>
-        <link href="https://github.com/HuyPhuongVN/PhuongBlog.git/posts/chuong-4-quan-ly-dia-chi-ket-noi-mang/"/>
-        <id>https://github.com/HuyPhuongVN/PhuongBlog.git/posts/chuong-4-quan-ly-dia-chi-ket-noi-mang/</id>
+        <link href="https://HuyPhuongVN.github.io/rainblog.git/chuong-4-quan-ly-dia-chi-ket-noi-mang.html"/>
+        <id>https://HuyPhuongVN.github.io/rainblog.git/chuong-4-quan-ly-dia-chi-ket-noi-mang.html</id>
 
-        <updated>2024-12-27T19:29:34+07:00</updated>
+        <updated>2025-01-07T14:41:09+07:00</updated>
             <summary>
                 <![CDATA[
-                    Giới thiệu Trong lập trình Java, việc làm việc với địa chỉ mạng và URL rất quan trọng, đặc biệt khi xây dựng các ứng dụng mạng hoặc web. Java cung cấp hai lớp mạnh mẽ là InetAddress và URL trong gói java.net để hỗ&hellip;
+                    Giới thiệu Trong lập trình Java, việc làm việc với địa chỉ mạng và URL rất quan trọng, đặc biệt khi xây dựng các ứng dụng mạng hoặc web. Java cung cấp hai lớp mạnh mẽ là InetAddress và URL trong gói java.net để hỗ trợ quản lý kết nối mạng,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <h2><strong>Giới thiệu</strong></h2>
-<p>Trong lập trình Java, việc làm việc với địa chỉ mạng và URL rất quan trọng, đặc biệt khi xây dựng các ứng dụng mạng hoặc web. Java cung cấp hai lớp mạnh mẽ là <code>InetAddress</code> và <code>URL</code> trong gói <code>java.net</code> để hỗ trợ quản lý kết nối mạng, tra cứu DNS, và xử lý URL.</p>
+<p>Trong lập trình Java, việc làm việc với địa chỉ mạng và URL rất quan trọng, đặc biệt khi xây dựng các ứng dụng mạng hoặc web. Java cung cấp hai lớp mạnh mẽ là <code>InetAddress</code> và <code>URL</code> trong gói <code>java.net</code> để hỗ trợ quản lý kết nối mạng, tra cứu DNS, và xử lý URL.</p>
 <hr>
 <h2><strong>Lớp InetAddress</strong></h2>
-<p><code>InetAddress</code> là lớp đại diện cho địa chỉ IP, có thể là IPv4 hoặc IPv6. Lớp này cung cấp các phương thức để tra cứu địa chỉ IP và tên miền.</p>
+<p><code>InetAddress</code> là lớp đại diện cho địa chỉ IP, có thể là IPv4 hoặc IPv6. Lớp này cung cấp các phương thức để tra cứu địa chỉ IP và tên miền.</p>
 <h3><strong>1. Các phương thức chính</strong></h3>
 <ul>
 <li><strong><code>getByName(String host)</code></strong>: Lấy địa chỉ IP của một tên miền hoặc host.</li>
@@ -1024,21 +998,20 @@ public class clientTCP {
 </div>
 <hr>
 <h2><strong>Lớp URL</strong></h2>
-<p><code>URL</code> là lớp đại diện cho địa chỉ tài nguyên trên Internet (Uniform Resource Locator). Lớp này được sử dụng để phân tích cú pháp URL và kết nối tới tài nguyên qua giao thức như HTTP, FTP.</p>
+<p><code>URL</code> là lớp đại diện cho địa chỉ tài nguyên trên Internet (Uniform Resource Locator). Lớp này được sử dụng để phân tích cú pháp URL và kết nối tới tài nguyên qua giao thức như HTTP, FTP.</p>
 <h3><strong>1. Các thành phần của URL</strong></h3>
 <p>Một URL điển hình có dạng:</p>
 <div class="contain-inline-size rounded-md border-[0.5px] border-token-border-medium relative bg-token-sidebar-surface-primary dark:bg-gray-950">
 <div class="flex items-center text-token-text-secondary px-4 py-2 text-xs font-sans justify-between rounded-t-md h-9 bg-token-sidebar-surface-primary dark:bg-token-main-surface-secondary select-none"> </div>
-<div class="overflow-y-auto p-4" dir="ltr"><code class="!whitespace-pre hljs language-bash">protocol://host:port/path?query<span class="hljs-comment">#fragment</span>
-</code></div>
+<div class="overflow-y-auto p-4" dir="ltr"><code class="!whitespace-pre hljs language-bash">protocol://host:port/path?query<span class="hljs-comment">#fragment</span></code></div>
 </div>
 <ul>
-<li><strong>protocol:</strong> Giao thức (HTTP, HTTPS, FTP, v.v.).</li>
-<li><strong>host:</strong> Tên miền hoặc địa chỉ IP.</li>
-<li><strong>port:</strong> Cổng giao tiếp (mặc định 80 cho HTTP, 443 cho HTTPS).</li>
-<li><strong>path:</strong> Đường dẫn tới tài nguyên.</li>
-<li><strong>query:</strong> Tham số truyền qua URL.</li>
-<li><strong>fragment:</strong> Thẻ đánh dấu bên trong tài liệu.</li>
+<li><strong>protocol:</strong> Giao thức (HTTP, HTTPS, FTP, v.v.).</li>
+<li><strong>host:</strong> Tên miền hoặc địa chỉ IP.</li>
+<li><strong>port:</strong> Cổng giao tiếp (mặc định 80 cho HTTP, 443 cho HTTPS).</li>
+<li><strong>path:</strong> Đường dẫn tới tài nguyên.</li>
+<li><strong>query:</strong> Tham số truyền qua URL.</li>
+<li><strong>fragment:</strong> Thẻ đánh dấu bên trong tài liệu.</li>
 </ul>
 <h3><strong>2. Các phương thức chính</strong></h3>
 <ul>
@@ -1098,20 +1071,20 @@ public class clientTCP {
 <tr>
 <td><strong>Kết nối tài nguyên</strong></td>
 <td>Không hỗ trợ</td>
-<td>Hỗ trợ thông qua <code>openConnection()</code></td>
+<td>Hỗ trợ thông qua <code>openConnection()</code></td>
 </tr>
 </tbody>
 </table>
 <hr>
 <h2><strong>Ứng dụng thực tế</strong></h2>
 <ol>
-<li><strong>Tra cứu DNS:</strong> Sử dụng <code>InetAddress</code> để lấy địa chỉ IP từ tên miền.</li>
-<li><strong>Phân tích URL:</strong> Dùng <code>URL</code> để xử lý các liên kết phức tạp trong ứng dụng web.</li>
-<li><strong>Tích hợp API:</strong> Kết hợp <code>URL</code> với <code>HttpURLConnection</code> để giao tiếp với các dịch vụ web.</li>
+<li><strong>Tra cứu DNS:</strong> Sử dụng <code>InetAddress</code> để lấy địa chỉ IP từ tên miền.</li>
+<li><strong>Phân tích URL:</strong> Dùng <code>URL</code> để xử lý các liên kết phức tạp trong ứng dụng web.</li>
+<li><strong>Tích hợp API:</strong> Kết hợp <code>URL</code> với <code>HttpURLConnection</code> để giao tiếp với các dịch vụ web.</li>
 </ol>
 <hr>
 <h2><strong>Kết luận</strong></h2>
-<p>Lớp <code>InetAddress</code> và <code>URL</code> trong Java là hai công cụ mạnh mẽ giúp bạn xử lý địa chỉ mạng và tài nguyên trực tuyến dễ dàng. Tùy vào mục đích cụ thể (quản lý địa chỉ IP hoặc phân tích URL), bạn có thể lựa chọn lớp phù hợp.</p>
+<p>Lớp <code>InetAddress</code> và <code>URL</code> trong Java là hai công cụ mạnh mẽ giúp bạn xử lý địa chỉ mạng và tài nguyên trực tuyến dễ dàng. Tùy vào mục đích cụ thể (quản lý địa chỉ IP hoặc phân tích URL), bạn có thể lựa chọn lớp phù hợp.</p>
 <p>Hy vọng bài viết này giúp bạn hiểu rõ hơn và áp dụng hiệu quả trong các dự án của mình! 😊</p>
 <p>Nếu cần hỗ trợ thêm hoặc muốn chia sẻ ý kiến, hãy để lại bình luận!</p>
             ]]>
@@ -1120,12 +1093,12 @@ public class clientTCP {
     <entry>
         <title>Chương 3: Lập trình đa tuyến</title>
         <author>
-            <name>Trần Huy Phương</name>
+            <name>HuyPhuong</name>
         </author>
-        <link href="https://github.com/HuyPhuongVN/PhuongBlog.git/posts/chuong-3-lap-trinh-da-tuyen/"/>
-        <id>https://github.com/HuyPhuongVN/PhuongBlog.git/posts/chuong-3-lap-trinh-da-tuyen/</id>
+        <link href="https://HuyPhuongVN.github.io/rainblog.git/chuong-3-lap-trinh-da-tuyen.html"/>
+        <id>https://HuyPhuongVN.github.io/rainblog.git/chuong-3-lap-trinh-da-tuyen.html</id>
 
-        <updated>2024-12-27T19:28:21+07:00</updated>
+        <updated>2025-01-07T14:40:38+07:00</updated>
             <summary>
                 <![CDATA[
                     Lập trình đa luồng (Multi-threading) là một kỹ thuật trong lập trình mà một ứng dụng có thể thực thi nhiều phần công việc (luồng – thread) một cách đồng thời. Trong Java, đa luồng là một tính năng mạnh mẽ và quan trọng, giúp các&hellip;
@@ -1134,7 +1107,7 @@ public class clientTCP {
         <content type="html">
             <![CDATA[
                 <p><strong>Lập trình đa luồng</strong> (Multi-threading) là một kỹ thuật trong lập trình mà một ứng dụng có thể thực thi nhiều phần công việc (luồng – thread) một cách đồng thời. Trong Java, đa luồng là một tính năng mạnh mẽ và quan trọng, giúp các ứng dụng có thể tận dụng tối đa tài nguyên CPU và giảm thời gian xử lý bằng cách thực thi nhiều tác vụ cùng lúc.</p>
-<p>Java cung cấp hỗ trợ sẵn có cho lập trình đa luồng thông qua lớp <strong><code class=" prettyprinted"><span class="typ">Thread</span></code></strong> và giao diện <strong><code class=" prettyprinted"><span class="typ">Runnable</span></code></strong>. Việc sử dụng đa luồng trong Java giúp tăng cường hiệu suất và cải thiện tính đáp ứng (responsiveness) của ứng dụng, đặc biệt trong các ứng dụng yêu cầu xử lý song song hoặc thời gian thực.</p>
+<p>Java cung cấp hỗ trợ sẵn có cho lập trình đa luồng thông qua lớp <strong><code class="prettyprinted"><span class="typ">Thread</span></code></strong> và giao diện <strong><code class="prettyprinted"><span class="typ">Runnable</span></code></strong>. Việc sử dụng đa luồng trong Java giúp tăng cường hiệu suất và cải thiện tính đáp ứng (responsiveness) của ứng dụng, đặc biệt trong các ứng dụng yêu cầu xử lý song song hoặc thời gian thực.</p>
 <h2 id="khai-niem-thread-trong-java" class="ftwp-heading">Khái niệm thread trong Java</h2>
 <h3 id="thread-la-gi" class="ftwp-heading"><span id="Thread_la_gi_Multi-thread_la_gi">Thread là gì?</span></h3>
 <p><strong>Thread</strong> (luồng) về cơ bản là một tiến trình con (sub-process). Một đơn vị xử lý nhỏ nhất của máy tính có thể thực hiện một công việc riêng biệt. Trong Java, các luồng được quản lý bởi máy ảo Java (JVM).</p>
@@ -1192,7 +1165,7 @@ public class clientTCP {
 <p>Một vấn đề khác là <strong>race condition</strong>, khi nhiều luồng cùng thao tác với một tài nguyên mà không kiểm soát đúng cách. Điều này có thể dẫn đến dữ liệu không chính xác hoặc bị hỏng.</p>
 <p>Cuối cùng, lập trình đa luồng còn dẫn đến <strong>tăng sử dụng tài nguyên</strong>. Mỗi luồng yêu cầu bộ nhớ và CPU riêng, và khi có quá nhiều luồng, việc chuyển đổi giữa các luồng (context switching) làm giảm hiệu suất tổng thể của hệ thống.</p>
 <h2 id="vong-doi-cac-trang-thai-cua-mot-thread-trong-java" class="ftwp-heading"><span id="Vong_doi_cac_trang_thai_cua_mot_Thread_trong_java">Vòng đời (các trạng thái) của một Thread trong Java</span></h2>
-<figure class="alignnone size-full wp-image-30795 ls-is-cached lazyloaded"><img  src="https://topdev.vn/blog/wp-content/uploads/2020/10/multithread-lifecylce.jpg" sizes="(max-width: 525px) 100vw, 525px" srcset="https://topdev.vn/blog/wp-content/uploads/2020/10/multithread-lifecylce.jpg 525w, https://topdev.vn/blog/wp-content/uploads/2020/10/multithread-lifecylce-300x199.jpg 300w" alt="Lập trình đa luồng trong Java (Java Multi-threading)" width="525" height="349" loading="lazy" data-srcset="https://topdev.vn/blog/wp-content/uploads/2020/10/multithread-lifecylce.jpg 525w, https://topdev.vn/blog/wp-content/uploads/2020/10/multithread-lifecylce-300x199.jpg 300w" data-src="https://topdev.vn/blog/wp-content/uploads/2020/10/multithread-lifecylce.jpg" data-sizes="(max-width: 525px) 100vw, 525px" data-is-external-image="true"></figure>
+<figure class="alignnone size-full wp-image-30795 ls-is-cached lazyloaded"><figure class="is-loaded"><img  src="https://topdev.vn/blog/wp-content/uploads/2020/10/multithread-lifecylce.jpg" sizes="(max-width: 525px) 100vw, 525px" srcset="https://topdev.vn/blog/wp-content/uploads/2020/10/multithread-lifecylce.jpg 525w, https://topdev.vn/blog/wp-content/uploads/2020/10/multithread-lifecylce-300x199.jpg 300w" alt="Lập trình đa luồng trong Java (Java Multi-threading)" width="525" height="349" loading="lazy" data-srcset="https://topdev.vn/blog/wp-content/uploads/2020/10/multithread-lifecylce.jpg 525w, https://topdev.vn/blog/wp-content/uploads/2020/10/multithread-lifecylce-300x199.jpg 300w" data-src="https://topdev.vn/blog/wp-content/uploads/2020/10/multithread-lifecylce.jpg" data-sizes="(max-width: 525px) 100vw, 525px" data-is-external-image="true" data-is-external-image="true"></figure></figure>
 <p>Vòng đời của thread trong java được kiểm soát bởi JVM. Java định nghĩa các trạng thái của luồng trong các thuộc tính static của lớp <strong>Thread.State</strong>:</p>
 <ul>
 <li><strong>NEW </strong>: Đây là trạng thái khi luồng vừa được khởi tạo bằng phương thức khởi tạo của lớp Thread nhưng chưa được start(). Ở trạng thái này, luồng được tạo ra nhưng chưa được cấp phát tài nguyên và cũng chưa chạy. Nếu luồng đang ở trạng thái này mà ta gọi các phương thức ép buộc stop,resume,suspend … sẽ là nguyên nhân sảy ra ngoại lệ IllegalThreadStateException .</li>
@@ -1214,7 +1187,7 @@ public class clientTCP {
 </ol>
 <div class="code-content">
 <div class="code-expandContent">
-<pre class=" prettyprinted"><span class="kwd">package</span><span class="pln"> com</span><span class="pun">.</span><span class="pln">gpcoder</span><span class="pun">.</span><span class="pln">simple</span><span class="pun">;</span>
+<pre class="prettyprinted"><span class="kwd">package</span><span class="pln"> com</span><span class="pun">.</span><span class="pln">gpcoder</span><span class="pun">.</span><span class="pln">simple</span><span class="pun">;</span>
 
 <span class="kwd">public</span> <span class="kwd">class</span> <span class="typ">TheadSimple</span> <span class="kwd">extends</span> <span class="typ">Thread</span> <span class="pun">{</span><span class="pln">
     </span><span class="kwd">public</span> <span class="kwd">void</span><span class="pln"> run</span><span class="pun">()</span> <span class="pun">{</span><span class="pln">
@@ -1250,7 +1223,7 @@ public class clientTCP {
 </ol>
 <div class="code-content">
 <div class="code-expandContent">
-<pre class=" prettyprinted"><span class="kwd">package</span><span class="pln"> com</span><span class="pun">.</span><span class="pln">gpcoder</span><span class="pun">.</span><span class="pln">simple</span><span class="pun">;</span>
+<pre class="prettyprinted"><span class="kwd">package</span><span class="pln"> com</span><span class="pun">.</span><span class="pln">gpcoder</span><span class="pun">.</span><span class="pln">simple</span><span class="pun">;</span>
 
 <span class="kwd">public</span> <span class="kwd">class</span> <span class="typ">RunnableSimple</span> <span class="kwd">implements</span> <span class="typ">Runnable</span> <span class="pun">{</span><span class="pln">
     </span><span class="kwd">public</span> <span class="kwd">void</span><span class="pln"> run</span><span class="pun">()</span> <span class="pun">{</span><span class="pln">
@@ -1273,7 +1246,7 @@ public class clientTCP {
 <p>Tạo luồng extend từ class Thead</p>
 <div class="code-content">
 <div class="code-expandContent">
-<pre class=" prettyprinted"><span class="kwd">package</span><span class="pln"> com</span><span class="pun">.</span><span class="pln">gpcoder</span><span class="pun">.</span><span class="pln">flow</span><span class="pun">;</span>
+<pre class="prettyprinted"><span class="kwd">package</span><span class="pln"> com</span><span class="pun">.</span><span class="pln">gpcoder</span><span class="pun">.</span><span class="pln">flow</span><span class="pun">;</span>
 
 <span class="kwd">public</span> <span class="kwd">class</span> <span class="typ">ThreadDemo</span> <span class="kwd">extends</span> <span class="typ">Thread</span> <span class="pun">{</span><span class="pln">
     </span><span class="kwd">private</span> <span class="typ">Thread</span><span class="pln"> t</span><span class="pun">;</span><span class="pln">
@@ -1314,7 +1287,7 @@ public class clientTCP {
 <p>Chương trình sử dụng đa luồng:</p>
 <div class="code-content">
 <div class="code-expandContent">
-<pre class=" prettyprinted"><span class="kwd">package</span><span class="pln"> com</span><span class="pun">.</span><span class="pln">gpcoder</span><span class="pun">.</span><span class="pln">flow</span><span class="pun">;</span>
+<pre class="prettyprinted"><span class="kwd">package</span><span class="pln"> com</span><span class="pun">.</span><span class="pln">gpcoder</span><span class="pun">.</span><span class="pln">flow</span><span class="pun">;</span>
 
 <span class="kwd">public</span> <span class="kwd">class</span> <span class="typ">ThreadDemoTest</span> <span class="pun">{</span><span class="pln">
     </span><span class="kwd">public</span> <span class="kwd">static</span> <span class="kwd">void</span><span class="pln"> main</span><span class="pun">(</span><span class="typ">String</span><span class="pln"> args</span><span class="pun">[])</span> <span class="pun">{</span><span class="pln">
@@ -1335,7 +1308,7 @@ public class clientTCP {
 <p>Kết quả thực thi chương trình trên:</p>
 <div class="code-content">
 <div class="code-expandContent">
-<pre class=" prettyprinted"><span class="typ">Main</span><span class="pln"> thread running</span><span class="pun">...</span>
+<pre class="prettyprinted"><span class="typ">Main</span><span class="pln"> thread running</span><span class="pun">...</span>
 <span class="typ">Creating</span> <span class="typ">Thread</span><span class="pun">-</span><span class="lit">1</span><span class="pun">-</span><span class="pln">HR</span><span class="pun">-</span><span class="typ">Database</span>
 <span class="typ">Starting</span> <span class="typ">Thread</span><span class="pun">-</span><span class="lit">1</span><span class="pun">-</span><span class="pln">HR</span><span class="pun">-</span><span class="typ">Database</span>
 <span class="typ">Creating</span> <span class="typ">Thread</span><span class="pun">-</span><span class="lit">2</span><span class="pun">-</span><span class="typ">Send</span><span class="pun">-</span><span class="typ">Email</span>
@@ -1357,12 +1330,12 @@ public class clientTCP {
 <div class="bbCodeBlock-expandLink"><a class="expand">Xem tiếp...</a></div>
 </div>
 <p>Kết quả chương trình trên được giải thích thông qua hình bên dưới:</p>
-<figure class="alignnone size-full wp-image-30796 ls-is-cached lazyloaded"><img  src="https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow.png" sizes="(max-width: 952px) 100vw, 952px" srcset="https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow.png 952w, https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow-300x168.png 300w, https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow-768x429.png 768w, https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow-696x389.png 696w, https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow-752x420.png 752w" alt="Lập trình đa luồng trong Java (Java Multi-threading)" width="952" height="532" loading="lazy" data-srcset="https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow.png 952w, https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow-300x168.png 300w, https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow-768x429.png 768w, https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow-696x389.png 696w, https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow-752x420.png 752w" data-src="https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow.png" data-sizes="(max-width: 952px) 100vw, 952px" data-is-external-image="true"></figure>
+<figure class="alignnone size-full wp-image-30796 ls-is-cached lazyloaded"><figure class="is-loaded"><img  src="https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow.png" sizes="(max-width: 952px) 100vw, 952px" srcset="https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow.png 952w, https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow-300x168.png 300w, https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow-768x429.png 768w, https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow-696x389.png 696w, https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow-752x420.png 752w" alt="Lập trình đa luồng trong Java (Java Multi-threading)" width="952" height="532" loading="lazy" data-srcset="https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow.png 952w, https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow-300x168.png 300w, https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow-768x429.png 768w, https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow-696x389.png 696w, https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow-752x420.png 752w" data-src="https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow.png" data-sizes="(max-width: 952px) 100vw, 952px" data-is-external-image="true" data-is-external-image="true"></figure></figure>
 <h3 id="vi-du-tao-luong-bang-cach-implement-tu-interface-runnable" class="ftwp-heading"><span id="Vi_duTao_luong_bang_cach_implement_tu_Interface_Runnable">Ví dụ Tạo luồng bằng cách implement từ Interface Runnable</span></h3>
 <p>Tạo luồng implement từ Interface Runnable</p>
 <div class="code-content">
 <div class="code-expandContent">
-<pre class=" prettyprinted"><span class="kwd">package</span><span class="pln"> com</span><span class="pun">.</span><span class="pln">gpcoder</span><span class="pun">.</span><span class="pln">flow</span><span class="pun">;</span>
+<pre class="prettyprinted"><span class="kwd">package</span><span class="pln"> com</span><span class="pun">.</span><span class="pln">gpcoder</span><span class="pun">.</span><span class="pln">flow</span><span class="pun">;</span>
 
 <span class="kwd">class</span> <span class="typ">RunnableDemo</span> <span class="kwd">implements</span> <span class="typ">Runnable</span> <span class="pun">{</span><span class="pln">
     </span><span class="kwd">private</span> <span class="typ">Thread</span><span class="pln"> t</span><span class="pun">;</span><span class="pln">
@@ -1403,7 +1376,7 @@ public class clientTCP {
 <p>Chương trình sử dụng đa luồng:</p>
 <div class="code-content">
 <div class="code-expandContent">
-<pre class=" prettyprinted"><span class="kwd">package</span><span class="pln"> com</span><span class="pun">.</span><span class="pln">gpcoder</span><span class="pun">.</span><span class="pln">flow</span><span class="pun">;</span>
+<pre class="prettyprinted"><span class="kwd">package</span><span class="pln"> com</span><span class="pun">.</span><span class="pln">gpcoder</span><span class="pun">.</span><span class="pln">flow</span><span class="pun">;</span>
 
 <span class="kwd">public</span> <span class="kwd">class</span> <span class="typ">RunnableDemoTest</span> <span class="pun">{</span><span class="pln">
     </span><span class="kwd">public</span> <span class="kwd">static</span> <span class="kwd">void</span><span class="pln"> main</span><span class="pun">(</span><span class="typ">String</span><span class="pln"> args</span><span class="pun">[])</span> <span class="pun">{</span><span class="pln">
@@ -1424,7 +1397,7 @@ public class clientTCP {
 <p>Kết quả thực thi chương trình trên:</p>
 <div class="code-content">
 <div class="code-expandContent">
-<pre class=" prettyprinted"><span class="typ">Main</span><span class="pln"> thread running</span><span class="pun">...</span>
+<pre class="prettyprinted"><span class="typ">Main</span><span class="pln"> thread running</span><span class="pun">...</span>
 <span class="typ">Creating</span> <span class="typ">Thread</span><span class="pun">-</span><span class="lit">1</span><span class="pun">-</span><span class="pln">HR</span><span class="pun">-</span><span class="typ">Database</span>
 <span class="typ">Starting</span> <span class="typ">Thread</span><span class="pun">-</span><span class="lit">1</span><span class="pun">-</span><span class="pln">HR</span><span class="pun">-</span><span class="typ">Database</span>
 <span class="typ">Creating</span> <span class="typ">Thread</span><span class="pun">-</span><span class="lit">2</span><span class="pun">-</span><span class="typ">Send</span><span class="pun">-</span><span class="typ">Email</span>
@@ -1446,7 +1419,7 @@ public class clientTCP {
 <div class="bbCodeBlock-expandLink"><a class="expand">Xem tiếp...</a></div>
 </div>
 <p>Kết quả chương trình trên được giải thích thông qua hình bên dưới:</p>
-<figure class="alignnone size-full wp-image-30797 ls-is-cached lazyloaded"><img  src="https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow-Runnable.png" sizes="(max-width: 951px) 100vw, 951px" srcset="https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow-Runnable.png 951w, https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow-Runnable-300x168.png 300w, https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow-Runnable-768x430.png 768w, https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow-Runnable-696x390.png 696w, https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow-Runnable-749x420.png 749w" alt="Lập trình đa luồng trong Java (Java Multi-threading)" width="951" height="533" loading="lazy" data-srcset="https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow-Runnable.png 951w, https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow-Runnable-300x168.png 300w, https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow-Runnable-768x430.png 768w, https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow-Runnable-696x390.png 696w, https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow-Runnable-749x420.png 749w" data-src="https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow-Runnable.png" data-sizes="(max-width: 951px) 100vw, 951px" data-is-external-image="true"></figure>
+<figure class="alignnone size-full wp-image-30797 ls-is-cached lazyloaded"><figure class="is-loaded"><img  src="https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow-Runnable.png" sizes="(max-width: 951px) 100vw, 951px" srcset="https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow-Runnable.png 951w, https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow-Runnable-300x168.png 300w, https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow-Runnable-768x430.png 768w, https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow-Runnable-696x390.png 696w, https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow-Runnable-749x420.png 749w" alt="Lập trình đa luồng trong Java (Java Multi-threading)" width="951" height="533" loading="lazy" data-srcset="https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow-Runnable.png 951w, https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow-Runnable-300x168.png 300w, https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow-Runnable-768x430.png 768w, https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow-Runnable-696x390.png 696w, https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow-Runnable-749x420.png 749w" data-src="https://topdev.vn/blog/wp-content/uploads/2020/10/Multi-Thread-Flow-Runnable.png" data-sizes="(max-width: 951px) 100vw, 951px" data-is-external-image="true" data-is-external-image="true"></figure></figure>
 <h2 id="cac-phuong-thuc-cua-lop-thread-thuong-hay-su-dung" class="ftwp-heading"><span id="Cac_phuong_thuc_cua_lop_Thread_thuong_hay_su_dung">Các phương thức của lớp Thread thường hay sử dụng</span></h2>
 <ul>
 <li><strong>suspend()</strong> : Đây là phương thức làm tạm dừng hoạt động của 1 luồng nào đó bằng các ngưng cung cấp CPU cho luồng này. Để cung cấp lại CPU cho luồng ta sử dụng phương thức resume(). Cần lưu ý 1 điều là ta không thể dừng ngay hoạt động của luồng bằng phương thức này. Phương thức suspend() không dừng ngay tức thì hoạt động của luồng mà sau khi luồng này trả CPU về cho hệ điều hành thì không cấp CPU cho luồng nữa.</li>
@@ -1492,7 +1465,7 @@ public class clientTCP {
 <h3 id="vi-du-minh-hoa" class="ftwp-heading"><span id="Vi_du_minh_hoa">Ví dụ minh họa</span></h3>
 <div class="code-content">
 <div class="code-expandContent">
-<pre class=" prettyprinted"><span class="typ">WorkingThread</span><span class="pun">.</span><span class="pln">java
+<pre class="prettyprinted"><span class="typ">WorkingThread</span><span class="pun">.</span><span class="pln">java
 
 </span><span class="kwd">package</span><span class="pln"> com</span><span class="pun">.</span><span class="pln">gpcoder</span><span class="pun">.</span><span class="pln">info</span><span class="pun">;</span>
 
@@ -1513,7 +1486,7 @@ public class clientTCP {
 <p>ThreadInfoExample.java</p>
 <div class="code-content">
 <div class="code-expandContent">
-<pre class=" prettyprinted"><span class="kwd">package</span><span class="pln"> com</span><span class="pun">.</span><span class="pln">gpcoder</span><span class="pun">.</span><span class="pln">info</span><span class="pun">;</span>
+<pre class="prettyprinted"><span class="kwd">package</span><span class="pln"> com</span><span class="pun">.</span><span class="pln">gpcoder</span><span class="pun">.</span><span class="pln">info</span><span class="pun">;</span>
 
 <span class="kwd">public</span> <span class="kwd">class</span> <span class="typ">ThreadInfoExample</span> <span class="pun">{</span><span class="pln">
 
@@ -1545,7 +1518,7 @@ public class clientTCP {
 <p>Kết quả thực thi chương trình trên:</p>
 <div class="code-content">
 <div class="code-expandContent">
-<pre class=" prettyprinted"><span class="pln">ID lu</span><span class="pun">ồ</span><span class="pln">ng </span><span class="lit">1</span><span class="pun">:</span> <span class="lit">10</span><span class="pln">
+<pre class="prettyprinted"><span class="pln">ID lu</span><span class="pun">ồ</span><span class="pln">ng </span><span class="lit">1</span><span class="pun">:</span> <span class="lit">10</span><span class="pln">
 ID lu</span><span class="pun">ồ</span><span class="pln">ng </span><span class="lit">2</span><span class="pun">:</span> <span class="lit">11</span><span class="pln">
 ID lu</span><span class="pun">ồ</span><span class="pln">ng </span><span class="lit">3</span><span class="pun">:</span> <span class="lit">12</span>
 <span class="typ">Lu</span><span class="pun">ồ</span><span class="pln">ng</span><span class="pun">:</span> <span class="typ">Lu</span><span class="pun">ồ</span><span class="pln">ng </span><span class="lit">2</span><span class="pln"> c</span><span class="pun">ó</span> <span class="pun">độ</span> <span class="pun">ư</span><span class="pln">u ti</span><span class="pun">ê</span><span class="pln">n l</span><span class="pun">à</span> <span class="lit">5</span>
@@ -1571,7 +1544,7 @@ ID lu</span><span class="pun">ồ</span><span class="pln">ng </span><span class=
 <p>Ví dụ chương trình in ra số từ 1 – 5, tạm ngừng 500 ms trước khi in chữ số tiếp theo.</p>
 <div class="code-content">
 <div class="code-expandContent">
-<pre class=" prettyprinted"><span class="kwd">package</span><span class="pln"> com</span><span class="pun">.</span><span class="pln">gpcoder</span><span class="pun">.</span><span class="pln">sleep</span><span class="pun">;</span>
+<pre class="prettyprinted"><span class="kwd">package</span><span class="pln"> com</span><span class="pun">.</span><span class="pln">gpcoder</span><span class="pun">.</span><span class="pln">sleep</span><span class="pun">;</span>
 
 <span class="kwd">public</span> <span class="kwd">class</span> <span class="typ">SleepMethodExample</span> <span class="kwd">extends</span> <span class="typ">Thread</span> <span class="pun">{</span><span class="pln">
 
@@ -1600,7 +1573,7 @@ ID lu</span><span class="pun">ồ</span><span class="pln">ng </span><span class=
 <p>Ví dụ:</p>
 <div class="code-content">
 <div class="code-expandContent">
-<pre class=" prettyprinted"><span class="kwd">package</span><span class="pln"> com</span><span class="pun">.</span><span class="pln">gpcoder</span><span class="pun">.</span><span class="kwd">join</span><span class="pun">;</span>
+<pre class="prettyprinted"><span class="kwd">package</span><span class="pln"> com</span><span class="pun">.</span><span class="pln">gpcoder</span><span class="pun">.</span><span class="kwd">join</span><span class="pun">;</span>
 
 <span class="kwd">public</span> <span class="kwd">class</span> <span class="typ">UsingJoinMethod</span> <span class="kwd">extends</span> <span class="typ">Thread</span> <span class="pun">{</span><span class="pln">
 
@@ -1635,7 +1608,7 @@ ID lu</span><span class="pun">ồ</span><span class="pln">ng </span><span class=
 <div class="bbCodeBlock-expandLink"><a class="expand">Xem tiếp...</a></div>
 </div>
 <p>Thực thi chương trình trên:</p>
-<pre class=" prettyprinted"><span class="typ">Thread</span> <span class="lit">1</span>
+<pre class="prettyprinted"><span class="typ">Thread</span> <span class="lit">1</span>
 <span class="lit">1</span> <span class="lit">2</span> <span class="lit">3</span> <span class="lit">4</span> <span class="lit">5</span>
 <span class="typ">Main</span> <span class="typ">Thread</span> <span class="typ">Finished</span>
 <span class="typ">Thread</span> <span class="lit">2</span>
@@ -1643,7 +1616,7 @@ ID lu</span><span class="pun">ồ</span><span class="pln">ng </span><span class=
 <p><strong>join(long)</strong> : Thread cha cần phải đợi millisecond mới được tiếp tục chạy, kể từ lúc gọi join(long). Nếu tham số millis = 0 nghĩa là đợi cho tới khi luồng này kết thúc.</p>
 <div class="code-content">
 <div class="code-expandContent">
-<pre class=" prettyprinted"><span class="kwd">package</span><span class="pln"> com</span><span class="pun">.</span><span class="pln">gpcoder</span><span class="pun">.</span><span class="kwd">join</span><span class="pun">;</span>
+<pre class="prettyprinted"><span class="kwd">package</span><span class="pln"> com</span><span class="pun">.</span><span class="pln">gpcoder</span><span class="pun">.</span><span class="kwd">join</span><span class="pun">;</span>
 
 <span class="kwd">public</span> <span class="kwd">class</span> <span class="typ">UsingJoinMethod2</span> <span class="kwd">extends</span> <span class="typ">Thread</span> <span class="pun">{</span><span class="pln">
 
@@ -1682,7 +1655,7 @@ ID lu</span><span class="pun">ồ</span><span class="pln">ng </span><span class=
 <div class="bbCodeBlock-expandLink"><a class="expand">Xem tiếp...</a></div>
 </div>
 <p>Thực thi chương trình trên:</p>
-<pre class=" prettyprinted"><span class="typ">Thread</span> <span class="lit">1</span>
+<pre class="prettyprinted"><span class="typ">Thread</span> <span class="lit">1</span>
 <span class="lit">1</span> <span class="lit">2</span> <span class="typ">Main</span> <span class="typ">Thread</span> <span class="typ">Finished</span>
 <span class="typ">Thread</span> <span class="lit">2</span>
 <span class="lit">1</span> <span class="lit">3</span> <span class="lit">2</span> <span class="lit">4</span> <span class="lit">3</span> <span class="lit">5</span> <span class="lit">4</span>
@@ -1692,7 +1665,7 @@ ID lu</span><span class="pun">ồ</span><span class="pln">ng </span><span class=
 <p>Ví dụ:</p>
 <div class="code-content">
 <div class="code-expandContent">
-<pre class=" prettyprinted"><span class="kwd">package</span><span class="pln"> com</span><span class="pun">.</span><span class="pln">gpcoder</span><span class="pun">.</span><span class="pln">exception</span><span class="pun">;</span>
+<pre class="prettyprinted"><span class="kwd">package</span><span class="pln"> com</span><span class="pun">.</span><span class="pln">gpcoder</span><span class="pun">.</span><span class="pln">exception</span><span class="pun">;</span>
 
 <span class="kwd">import</span><span class="pln"> java</span><span class="pun">.</span><span class="pln">util</span><span class="pun">.</span><span class="typ">Random</span><span class="pun">;</span>
 
@@ -1727,7 +1700,7 @@ ID lu</span><span class="pun">ồ</span><span class="pln">ng </span><span class=
 <p>Chương trình minh họa xử lý Thread Exception</p>
 <div class="code-content">
 <div class="code-expandContent">
-<pre class=" prettyprinted"><span class="kwd">package</span><span class="pln"> com</span><span class="pun">.</span><span class="pln">gpcoder</span><span class="pun">.</span><span class="pln">exception</span><span class="pun">;</span>
+<pre class="prettyprinted"><span class="kwd">package</span><span class="pln"> com</span><span class="pun">.</span><span class="pln">gpcoder</span><span class="pun">.</span><span class="pln">exception</span><span class="pun">;</span>
 
 <span class="kwd">public</span> <span class="kwd">class</span> <span class="typ">ThreadExceptionDemo</span> <span class="pun">{</span><span class="pln">
 
@@ -1753,7 +1726,7 @@ ID lu</span><span class="pun">ồ</span><span class="pln">ng </span><span class=
 <p>Thực thi chương trình trên:</p>
 <div class="code-content">
 <div class="code-expandContent">
-<pre class=" prettyprinted"><span class="pun">==&gt;</span> <span class="typ">Main</span><span class="pln"> thread running</span><span class="pun">...</span>
+<pre class="prettyprinted"><span class="pun">==&gt;</span> <span class="typ">Main</span><span class="pln"> thread running</span><span class="pun">...</span>
 <span class="pun">==&gt;</span> <span class="typ">Main</span><span class="pln"> thread </span><span class="kwd">end</span><span class="pun">!!!</span>
 <span class="typ">Processing</span><span class="pln"> working thread
 </span><span class="typ">Processing</span><span class="pln"> working thread
@@ -1779,12 +1752,12 @@ ID lu</span><span class="pun">ồ</span><span class="pln">ng </span><span class=
     <entry>
         <title>Chương 2: Quản lý các luồng I/O</title>
         <author>
-            <name>Trần Huy Phương</name>
+            <name>HuyPhuong</name>
         </author>
-        <link href="https://github.com/HuyPhuongVN/PhuongBlog.git/posts/chuong-2-quan-ly-cac-luong-io/"/>
-        <id>https://github.com/HuyPhuongVN/PhuongBlog.git/posts/chuong-2-quan-ly-cac-luong-io/</id>
+        <link href="https://HuyPhuongVN.github.io/rainblog.git/chuong-2-quan-ly-cac-luong-io.html"/>
+        <id>https://HuyPhuongVN.github.io/rainblog.git/chuong-2-quan-ly-cac-luong-io.html</id>
 
-        <updated>2024-12-27T19:26:39+07:00</updated>
+        <updated>2025-01-07T14:39:58+07:00</updated>
             <summary>
                 <![CDATA[
                     Khái niệm luồng (stream): Một stream có thể được định nghĩa như là một dãy liên tục dữ liệu. Java định nghĩa 2 kiểu luồng: byte và ký tự (phiên bản gốc chỉ định nghĩa kiểu luồng byte, và sau đó luồng ký tự được&hellip;
@@ -1792,19 +1765,20 @@ ID lu</span><span class="pun">ồ</span><span class="pln">ng </span><span class=
             </summary>
         <content type="html">
             <![CDATA[
-                <ul>
+                <div class="entry-wrapper content__entry">
+<ul>
 <li><strong>Khái niệm luồng (stream)</strong>: Một stream có thể được định nghĩa như là một dãy liên tục dữ liệu. Java định nghĩa 2 kiểu luồng: byte và ký tự (phiên bản gốc chỉ định nghĩa kiểu luồng byte, và sau đó luồng ký tự được thêm vào trong các phiên bản về sau). Luồng ký tự được thiết kế hỗ trợ việc nhập xuất dữ liệu kiểu ký tự (Unicode). Trong một vài trường hợp luồng ký tự sử dụng hiệu quả hơn luồng byte, nhưng ở mức hệ thống thì tất cả những xuất nhập đều phải qui về byte. Luồng ký tự hỗ trợ hiệu quả chỉ đối với việc quản lý, xử lý các ký tự.</li>
 </ul>
 <h3 id="_luong-byte-1">Luồng Byte:</h3>
 <ul>
 <li>Các luồng byte được định nghĩa dùng hai lớp phân cấp, mức trên cùng là hai lớp trừu tượng <strong>InputStream</strong> và <strong>OutputStream</strong>, là các lớp cha của các lớp xuất nhập kiểu byte. InputStream định nghĩa những đặc điểm chung cho những luồng nhập byte. OutputStream mô tả cách xử lý của các luồng xuất byte.</li>
 </ul>
-<figure class="article-img"><img loading="lazy"  title="" src="http://i.imgur.com/TdlBT3Z.png" alt="" data-is-external-image="true"></figure>
+<figure class="article-img"><figure class="is-loaded"><img  src="http://i.imgur.com/TdlBT3Z.png" alt="" loading="lazy" data-is-external-image="true" data-is-external-image="true"></figure></figure>
 <p>Nhìn trong hình, bạn có thể hiểu được quan hệ giữa các class trong IO với nhau. Chúng ta cần quan tâm nhiều đến <strong>FileInputStream</strong> (FileOutputStream) và <strong>BufferedInputStream</strong> (BufferedOutputStream) khi làm việc xuất nhập với file.</p>
 <ul>
 <li><strong>FileInputStream</strong>: Làm việc với file, Đọc từng byte dữ liệu bằng phương thức read(), khi kết thúc nó trả về giá trị -1. Cách này có tốc độ tương đối chậm. Đọc theo từng byte:</li>
 </ul>
-<div style="box-sizing: border-box; color: #1b1b1b; font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; position: relative;">
+<div>
 <pre class="language-sh" data-filename=""><code>FileInputStream in = new FileInputStream("data.txt");
 while ((byteRead = in.read()) != -1) {
   System.out.println(byteRead);
@@ -1816,7 +1790,7 @@ while ((byteRead = in.read()) != -1) {
 }
 "></button></div>
 <p>Đọc theo từng mảng byte.</p>
-<div style="box-sizing: border-box; color: #1b1b1b; font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; position: relative;">
+<div>
 <pre class="language-java" data-filename=""><code>//Dữ liệu đọc được lưu vào mảng byteBuf.
 //byteRead là số byte đọc được
 FileInputStream in = new FileInputStream("data.txt");
@@ -1842,7 +1816,7 @@ while ((byteRead = in.read()) != -1) {
 <li><strong>BufferedInputStream</strong>: Java sử dụng cơ chế nhập/xuất có lập vùng đệm để tạm thời lập cache dữ liệu vào/ra của một dòng. Nó giúp chương trình đọc/ghi lượng dữ liệu nhỏ không ảnh hưởng lớn đến hiệu năng chung của hệ thống. Trong khi thực hiện vào có vùng đệm, một số lượng byte lớn được đọc tại một thời điểm, và lưu trữ trong một vùng đệm nhập. Khi chương trình đọc dòng nhập thì thay vì ra dòng vào để đọc nó đọc từ vùng đệm nhập. Tiến trình lập vùng đệm ra cũng thực hiện tương tự. khi dữ liệu được một chương trình ghi ra dòng ra, dữ liệu ra được lưu trữ trong một vùng đệm ra. Dữ liệu được lưu trữ đến khi vùng đệm đầy hoặc các dòng tra thực hiện xả trống (flush). Cuối cùng liệu ra trong vùng đệm được chuyển đến dòng ra.</li>
 </ul>
 <p>Lớp này tự động tạo ra và duy trì vùng đệm để hỗ trợ thao tác vào. Nhờ đó chương trình có thể đọc dữ liệu từ dòng từng byte một mà không ảnh hưởng đến tốc độ thực hiện của hệ thống. Bởi lớp <strong>BufferedInputStream</strong> là một bộ lọc, nên có thể áp dụng nó cho một số đối tượng nhất định của lớp InputStream (không nhất thiết chỉ làm việc với file) và cũng có thể phối hợp với các tập tin đầu vào khác. BufferedInputStream được hiểu một phương thức trung gian, tham số truyền vào của nó là một dòng inputstream (ví dụ FileInputStream). Khác với FileInputStream có tham số truyền vào 1 file.</p>
-<div style="box-sizing: border-box; color: #1b1b1b; font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; position: relative;">
+<div>
 <pre class="language-sh" data-filename=""><code>BufferedInputStream in = new BufferedInputStream(new FileInputStream("data.txt"));
 while ((byteRead = in.read()) != -1) {
   System.out.println(byteRead);
@@ -1854,7 +1828,7 @@ while ((byteRead = in.read()) != -1) {
 }
 "></button></div>
 <p>Đọc theo mảng byte:</p>
-<div style="box-sizing: border-box; color: #1b1b1b; font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; position: relative;">
+<div>
 <pre class="language-sh" data-filename=""><code>BufferedInputStream in = new BufferedInputStream(new FileInputStream("data.txt"));
 byte[] byteBuf = new byte[4096];
 while ((byteRead = in.read()) != -1) {
@@ -1955,9 +1929,9 @@ while ((byteRead = in.read()) != -1) {
 </table>
 <h3 id="_luong-ky-tu-3">Luồng ký tự:</h3>
 <p>Trong nhiều trường hợp luồng byte không phải là cách tốt nhất để quản lý nhập xuất dữ liệu ký tự. Trong lập trình Java có kiểu luồng ký tự phục vụ riêng cho việc nhập xuất dữ liệu trên luồng. Mức trên cùng là 2 lớp trừu tường Reader và Writer. Các lớp dẫn xuất từ Reader và Writer hỗ trợ thao tác trên các luồng ký tự Unicode.</p>
-<figure class="article-img"><img loading="lazy"  title="" src="http://i.imgur.com/2Ltj8wI.png" alt="" data-is-external-image="true"></figure>
+<figure class="article-img"><figure class="is-loaded"><img  src="http://i.imgur.com/2Ltj8wI.png" alt="" loading="lazy" data-is-external-image="true" data-is-external-image="true"></figure></figure>
 <p>Để thao tác với file, bạn cần quan tâm đến các class <em>FileReader</em> và <em>BufferedReader</em> Ví dụ chỉ sử dụng FileReader</p>
-<div style="box-sizing: border-box; color: #1b1b1b; font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; position: relative;">
+<div>
 <pre class="language-sh" data-filename=""><code>//Đọc từng ký tự một
 FileReader inputStream = new FileReader("data.txt");
 int c;
@@ -1973,7 +1947,7 @@ while ((c = inputStream.read()) != -1) {
 }
 "></button></div>
 <p>Nếu sử dụng BufferedReader</p>
-<div style="box-sizing: border-box; color: #1b1b1b; font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; position: relative;">
+<div>
 <pre class="language-sh" data-filename=""><code>//Có thể đọc theo từng dòng
 FileReader fin = new FileReader("data.txt");
 BufferedReader in = new BufferedReader(fin);
@@ -1991,7 +1965,7 @@ while ((str = in.readLine()) != null) {
 }
 "></button></div>
 <p>Ví dụ đọc dữ liệu từ hệ thống (Console)</p>
-<div style="box-sizing: border-box; color: #1b1b1b; font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; position: relative;">
+<div>
 <pre class="language-sh" data-filename=""><code>BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 System.out.println("Nhập chuỗi ký tự, kết thúc bằng dấu chấm .");
 do {
@@ -2091,7 +2065,7 @@ do {
 </table>
 <h3 id="_doc-va-ghi-doi-tuong-trong-java-4">Đọc và ghi đối tượng trong Java</h3>
 <p>Trong Java, việc đọc và ghi một object do class ObjectOutputStream và ObjectInputStream đảm nhiệm. Đây là 2 lớp con của lớp java.io.OutputStream và java.io.InputStream. Để đọc ghi theo Object trong Java thì tại class Object đó ta cần đặt giao tiếp java.io.Serializable. Một ví dự đơn giản đọc ghi 1 Object MyStudent như sau:</p>
-<div class="v-markdown-content-box" style="box-sizing: border-box; max-height: 300px; padding-bottom: 1rem; cursor: pointer; mask-image: linear-gradient(#000000 60%, transparent); color: #1b1b1b; font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; position: relative;">
+<div class="v-markdown-content-box">
 <pre class="language-java" data-filename=""><code>public class ReadWriteObject {
     public static void main(String[] args){
         MyStudent myStudent = new MyStudent(); // tao doi tuong myStudent
@@ -2177,6 +2151,84 @@ class MyStudent implements Serializable{
 <h3 id="_tai-lieu-tham-khao-5">Tài liệu tham khảo:</h3>
 <p>Link project github: <a href="https://github.com/hoangtien2k3qx1/Java/tree/main/src/main/java/JavaCore/Java_Input_Output" target="_blank" rel="noopener"><strong>https://github.com/hoangtien2k3qx1/Java/tree/main/JavaCore/Java_Input_Output</strong></a></p>
 <p>Github: <a href="https://github.com/hoangtien2k3qx1" target="_blank" rel="noopener"><strong>https://github.com/hoangtien2k3qx1</strong></a></p>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Chương 1: Tổng quan về lập trình mạng</title>
+        <author>
+            <name>HuyPhuong</name>
+        </author>
+        <link href="https://HuyPhuongVN.github.io/rainblog.git/chuong-1-tong-quan-ve-lap-trinh-mang.html"/>
+        <id>https://HuyPhuongVN.github.io/rainblog.git/chuong-1-tong-quan-ve-lap-trinh-mang.html</id>
+
+        <updated>2025-01-07T14:39:19+07:00</updated>
+            <summary>
+                <![CDATA[
+                    1. Mạng và lập trình mạng là gì? Để trở thành người lập trình mạng giỏi, trước hết phải là người am hiểu kiến thức về mạng và lập trình. Một chương trình mạng viết ra là để truyền thông tin một cách hiệu quả&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2><span id="1-mang-va-lap-trinh-mang-la-gi"><strong>1. Mạng và lập trình mạng là gì?</strong></span></h2>
+<p>Để trở thành người lập trình mạng giỏi, trước hết phải là người am hiểu kiến thức về mạng và lập trình. Một chương trình mạng viết ra là để truyền thông tin một cách hiệu quả và an toàn nhất mà không sợ bị lộ thông tin.</p>
+<h3><span id="mang-la-gi"><strong>Mạng là gì? </strong></span></h3>
+<p>Với mục đích phân tích và nghiên cứu quá trình giao tiếp, Mạng máy tính đã được tạo ra như một bước tiến mới trong lịch sử. Bởi nó liên kết toàn bộ các hệ thống máy tính khác nhau để trao đổi thông tin cần thiết.</p>
+<p>Do đó, việc kết nối mạng chỉ thực hiện được khi có mạng riêng của nó. Có 4 loại mạng cơ bản là: LAN, MAN, WAN và PAN. Người dùng cần chú ý cơ chế hoạt động của các mạng để lựa chọn phát triển chương trình mạng được tốt nhất. </p>
+<div id="attachment_65334" class="wp-caption aligncenter">
+<figure class="size-full wp-image-65334"><figure class="is-loaded"><img  src="https://cdn.codegym.vn/wp-content/uploads/2022/12/lap-trinh-mang-la-gi-1.webp" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 600px, 100vw" srcset="https://cdn.codegym.vn/wp-content/uploads/2022/12/lap-trinh-mang-la-gi-1.webp 600w, https://cdn.codegym.vn/wp-content/uploads/2022/12/lap-trinh-mang-la-gi-1-480x320.webp 480w" alt="Có 4 loại mạng cơ bản là: LAN, MAN, WAN và PAN" width="600" height="400" loading="lazy" aria-describedby="caption-attachment-65334" data-is-external-image="true" data-is-external-image="true"></figure></figure>
+<p id="caption-attachment-65334" class="wp-caption-text">Có 4 loại mạng cơ bản là: LAN, MAN, WAN và PAN</p>
+</div>
+<ul>
+<li><strong>Mạng LAN (Local Area Network)</strong></li>
+</ul>
+<p><a href="https://vi.wikipedia.org/wiki/M%E1%BA%A1ng_c%E1%BB%A5c_b%E1%BB%99" target="_blank" rel="noopener"><strong>Mạng LAN</strong></a> là mạng cục bộ nên có đường truyền ngắn. Với giao thức TCP/IP, mạng LAN chủ yếu được sử dụng tại nơi diện tích nhỏ như: văn phòng, tòa nhà, trường học.</p>
+<p>Tất cả máy tính kết nối mạng LAN đều được sử dụng để kết nối vào máy chủ sau đó chờ quyền truy cập để thực hiện lệnh in trên máy in. </p>
+<ul>
+<li><strong>Mạng MAN (Metropolitan Area Network)</strong></li>
+</ul>
+<p>Khác với mạng LAN, mạng đô thị MAN có phạm vị kết nối rộng hơn, hình thành nhờ sự kết nối nhiều mạng LAN với nhau. </p>
+<p>Đây là mô hình rộng cung cấp dịch vụ giá trị gia tăng; trên một đường truyền tốc độ nhanh để kết nối và mở rộng triển khai các doanh nghiệp với nhau. </p>
+<ul>
+<li><strong>Mạng WAN (Wide Area Network)</strong></li>
+</ul>
+<p>Mạng diện rộng WAN là sự kết hợp giữa mạng LAN và mạng MAN với việc sử dụng đường dây cáp quang hay thuê bao hoặc thông qua đường truyền vệ tinh. </p>
+<p>Phạm vi hoạt động của mạng rộng lớn hơn, bao gồm cả một quốc gia, khu vực địa lý hay thậm chí ở toàn cầu. </p>
+<ul>
+<li><strong>Mạng PAN (Personal Area Network)</strong></li>
+</ul>
+<p>Mạng PAN có khả năng phát tín hiệu kết nối trong một diện tích nhỏ để truyền dữ liệu thông qua mạng trực tuyến. </p>
+<p>Cá nhân có thể sử dụng mạng PAN giữa các thiết bị với nhau như di động. máy tính. để liên lạc thuận lợi hơn hoặc kết nối với các mạng cao cấp hơn.</p>
+<h3><span id="lap-trinh-mang-la-gi"><strong>Lập trình mạng là gì?</strong></span></h3>
+<p>Lập trình mạng nói một cách dễ hiểu là công việc của người sẽ phát triển ứng dụng tại hệ thống doanh nghiệp từ việc lập sổ sách nhân sự, quản lý tiền cho đến việc sáng tạo các trò chơi, điều khiển để thêm sức hấp dẫn thu hút hơn. </p>
+<p>Công thức để xây dựng lập trình mạng như sau: </p>
+<p><strong>Lập trình mạng = Kiến thức mạng + Mô hình lập trình mạng + Ngôn ngữ lập trình mạng</strong></p>
+<p>Theo công thức này thì sẽ rất dễ nhận thấy ba vấn đề chính cần quan tâm là kiến thức mạng truyền thông, mô hình lập trình và ngôn ngữ lập trình. </p>
+<p>Về kiến thức mạng truyền thông thì đây là kiến thức chung về mạng di động: mạng Bluetooth, hệ thống GPS, mạng Sensor… mà người làm quản trị cần nắm vững cách sử dụng để khai thác. </p>
+<p>Mô hình lập trình là kiến thức về tất cả các cách xây dựng hệ thống mạng, kiến thức về cơ sở dữ liệu, mô hình xây dựng các chương trình ứng dụng mạng. </p>
+<h2><span id="2-lap-trinh-mang-hoc-ngon-ngu-gi"><strong>2. Lập trình mạng học ngôn ngữ gì?</strong></span></h2>
+<p>Thành phần không thể thiếu của lập trình hay lập trình mạng chính là ngôn ngữ lập trình. Ngôn ngữ lập trình mạng là yếu tố quyết định then chốt xem </p>
+<p>chương trình mạng đang hoạt động ra sao. Tùy theo mục đích sử dụng mà sẽ </p>
+<p>tạo ngôn ngữ lập trình mạng tương ứng. </p>
+<p>Vậy thì học lập trình mạng chúng ta sẽ sử dụng ngôn ngữ nào? Có nhiều loại ngôn ngữ để lập trình mạng khác nhau, tuy nhiên tất cả đều vẫn có ưu nhược điểm riêng. Nhưng tóm gọn vẫn là hỗ trợ thư viện API với các cấp độ và mức phụ thuộc. </p>
+<p>Các ngôn ngữ lập trình mạng phổ biến hiện nay được sử dụng nhiều nhất là:</p>
+<ul>
+<li>C/C++</li>
+<li>Java</li>
+<li>.NET</li>
+<li>Delphi</li>
+<li>Javascript</li>
+</ul>
+<p>Trước đây Java hay NET lại được sử dụng khá rộng rãi do sự tiện ích của nó khi xây dựng một ứng dụng mạng mang lại. Hiện nay, xu hướng ngôn ngữ lập trình đã có những thay đổi, đặc biệt là làn sóng xu lập trình Fullstack với lập trình mạng từ nền Javascript nhận được sự quan tâm nhiều hơn. </p>
+<div id="attachment_65335" class="wp-caption aligncenter">
+<figure class="size-full wp-image-65335 lazyloaded"><figure class="is-loaded"><img  src="https://cdn.codegym.vn/wp-content/uploads/2022/12/lap-trinh-mang-la-gi-2.webp" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 600px, 100vw" srcset="https://cdn.codegym.vn/wp-content/uploads/2022/12/lap-trinh-mang-la-gi-2.webp 600w, https://cdn.codegym.vn/wp-content/uploads/2022/12/lap-trinh-mang-la-gi-2-480x320.webp 480w" alt="Lập trình mạng cần am hiểu nhiều ngôn ngữ khác nhau" width="600" height="400" loading="lazy" aria-describedby="caption-attachment-65335" data-src="https://cdn.codegym.vn/wp-content/uploads/2022/12/lap-trinh-mang-la-gi-2.webp" data-srcset="https://cdn.codegym.vn/wp-content/uploads/2022/12/lap-trinh-mang-la-gi-2.webp 600w, https://cdn.codegym.vn/wp-content/uploads/2022/12/lap-trinh-mang-la-gi-2-480x320.webp 480w" data-sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 600px, 100vw" data-is-external-image="true" data-is-external-image="true"></figure></figure>
+<p id="caption-attachment-65335" class="wp-caption-text">Lập trình mạng cần am hiểu nhiều ngôn ngữ khác nhau</p>
+</div>
+<h2><span id="3-kien-thuc-co-ban-ve-lap-trinh-mang"><strong>3. Kiến thức cơ bản về lập trình mạng </strong></span></h2>
+<p>Ngoài những hiểu biết về mạng và lập trình mạng cũng như ngôn ngữ lập trình. Hiện nay khi học lập trình, các nhà lập trình thường sử dụng ngôn ngữ lập trình NET. Ngôn ngữ lập trình của NET là tập hợp các lớp dùng để lập trình online thuộc không gian System.net và System.net Socket. Các lớp này hỗ trợ tất cả mọi thứ từ lập trình đến tạo địa chỉ TCP/IP.</p>
+<p>Mạng cục bộ LAN được các nhà lập trình tương lai xây dựng và phát triển các máy tính để kết nối tại các khu vực nhỏ như hộ gia đình hay toà nhà. </p>
+<p>Ngoài ra lập trình mạng còn có dịch vụ web HTML, được thông qua từ HTTP. Hai không gian này đều có nền tảng hay networking cấp cao. Không chỉ vậy, lập trình mạng cũng cần tới nền Socket khi đây là giao diện trực tuyến, thông qua đó lập trình điều khiển 2 máy với nhau, gửi nhận dữ liệu giữa 2 máy.</p>
             ]]>
         </content>
     </entry>
