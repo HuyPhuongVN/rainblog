@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "PhuongBlog",
+    "description": "",
+    "home_page_url": "file:///C:\Users\tranh\Downloads\Publii\phuongblog\preview",
+    "feed_url": "file:///C:\Users\tranh\Downloads\Publii\phuongblog\preview/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "HuyPhuong"
+    },
+    "items": [
+    ]
+}
